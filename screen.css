@@ -56,3 +56,19 @@ a {
 
 #main {
   padding: 50px; }
+
+body {
+    background-color: paleturquoise;
+}
+
+h1 {
+    text-align: center;
+    font-size: 8em;
+    color: darkturquoise
+}
+
+p {
+    text-align: center;
+    font-size: 5em;
+    color: darkturquoise;
+}
