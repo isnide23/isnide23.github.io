@@ -26,8 +26,8 @@ header h1, h2 {
 }
 
 #banner-image {
-    height: 25vh;
-    background-image: url(/images/downsizedImages/GreatSandDunesPano.jpg);
+    height: 50vh;
+    background-image: url(/images/downsizedImages/SparksPanoDownSize.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
