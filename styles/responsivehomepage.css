@@ -28,7 +28,7 @@ header h1, h2 {
 
 #banner-image {
     height: 50vh;
-    background-image: url(/images/downsizedImages/SparksPanoDownSize.jpg);
+    background-image: url(../images/downsizedImages/SparksPanoDownSize.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -110,7 +110,7 @@ h3 a {
     #side-image {
         display: block;
         width: 30%;
-        background-image: url(/images/downsizedImages/HoneyBeeLupine.jpg);
+        background-image: url(../images/downsizedImages/HoneyBeeLupine.jpg);
         background-size: cover;
         background-position: center;
         box-shadow: -6px 3px 10px black;
