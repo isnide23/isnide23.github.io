@@ -23,6 +23,7 @@ header, nav, footer {
 header h1, h2 {
     color: gold;
     padding-left: 1em;
+    text-shadow: 2px 2px rgba(0,0,0, 0.5);
 }
 
 #banner-image {
