@@ -1,113 +1,73 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <title>W3.CSS Template</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<style>
-body,h1 {font-family: "Montserrat", sans-serif}
-img {margin-bottom: -7px}
-.w3-row-padding img {margin-bottom: 12px}
-</style>
 <body>
 
-<!-- Sidebar -->
-<nav class="w3-sidebar w3-black w3-animate-top w3-xxlarge" style="display:none;padding-top:150px" id="mySidebar">
-  <a href="javascript:void(0)" onclick="w3_close()" class="w3-button w3-black w3-xxlarge w3-padding w3-display-topright" style="padding:6px 24px">
-    <i class="fa fa-remove"></i>
-  </a>
-  <div class="w3-bar-block w3-center">
-    <a href="#" class="w3-bar-item w3-button w3-text-grey w3-hover-black">About</a>
-    <a href="#" class="w3-bar-item w3-button w3-text-grey w3-hover-black">Photos</a>
-    <a href="#" class="w3-bar-item w3-button w3-text-grey w3-hover-black">Shop</a>
-    <a href="#" class="w3-bar-item w3-button w3-text-grey w3-hover-black">Contact</a>
-  </div>
-</nav>
-
-<!-- !PAGE CONTENT! -->
-<div class="w3-content" style="max-width:1500px">
-
 <!-- Header -->
-<div class="w3-opacity">
-<span class="w3-button w3-xxlarge w3-white w3-right" onclick="w3_open()"><i class="fa fa-bars"></i></span> 
-<div class="w3-clear"></div>
-<header class="w3-center w3-margin-bottom">
-  <h1><b>Ian Snyder Photography</b></h1>
-  <p><b>A template made by w3.css for photographers.</b></p>
-  <p class="w3-padding-16"><button class="w3-button w3-black" onclick="myFunction()">Toggle Grid Padding</button></p>
+<header class="w3-display-container w3-content w3-center" style="max-width:1500px">
+  <img class="w3-image" src="/images/Photography%2520Portfolio%2520Website/DeeWrightSillouhuette.jpg" alt="Me" width="1500" height="600">
+  <div class="w3-display-middle w3-padding-large w3-border w3-wide w3-text-light-grey w3-center">
+    <h1 class="w3-hide-medium w3-hide-small w3-xxxlarge">IAN SNYDER</h1>
+    <h5 class="w3-hide-large" style="white-space:nowrap">IAN SNYDER</h5>
+    <h3 class="w3-hide-medium w3-hide-small">PHOTOGRAPHER</h3>
+  </div>
+  
+  <!-- Navbar (placed at the bottom of the header image) -->
+  <div class="w3-bar w3-light-grey w3-round w3-display-bottommiddle w3-hide-small" style="bottom:-16px">
+    <a href="#" class="w3-bar-item w3-button">Home</a>
+    <a href="#portfolio" class="w3-bar-item w3-button">Portfolio</a>
+    <a href="#contact" class="w3-bar-item w3-button">Contact</a>
+  </div>
 </header>
-</div>
 
-<!-- Photo Grid -->
-<div class="w3-row" id="myGrid" style="margin-bottom:128px">
-  <div class="w3-third">
-    <img src="/images/downsizedImages/HoneyBeeLupine.jpg" style="width:100%">
-    <img src="/images/downsizedImages/NicoleShiprwreckBeach%20(4%20of%204).jpg" style="width:100%">
-    <img src="/images/downsizedImages/TumaloFalls16x9-1.jpg" style="width:100%">
-    <img src="/images/downsizedImages/sparkssouthsistersunset.jpg" style="width:100%">
-    <img src="/images/downsizedImages/TwilightSouthCascades-1.jpg" style="width:100%">
-    <img src="/images/downsizedImages/WoodCuttingCascadeLakeHwy%20(1%20of%205).jpg" style="width:100%">
-   
+<!-- Navbar on small screens -->
+<div class="w3-center w3-light-grey w3-padding-16 w3-hide-large w3-hide-medium">
+<div class="w3-bar w3-light-grey">
+  <a href="#" class="w3-bar-item w3-button">Home</a>
+  <a href="#portfolio" class="w3-bar-item w3-button">Portfolio</a>
+  <a href="#contact" class="w3-bar-item w3-button">Contact</a>
+</div>
+</div>
+<!-- Page content -->
+<div class="w3-content w3-padding-large w3-margin-top" id="portfolio">
+
+  <!-- Images (Portfolio) -->
+  <img src="/w3images/ocean.jpg" alt="Ocean" class="w3-image" width="1000" height="500">
+  <img src="/w3images/ocean2.jpg" alt="Ocean II" class="w3-image w3-margin-top" width="1000" height="500">
+  <img src="/w3images/falls2.jpg" alt="Falls" class="w3-image w3-margin-top" width="1000" height="500">
+  <img src="/w3images/mountainskies.jpg" alt="Skies" class="w3-image w3-margin-top" width="1000" height="500">
+  <img src="/w3images/mountains2.jpg" alt="Mountains" class="w3-image w3-margin-top" width="1000" height="500">
+
+  <!-- Contact -->
+  <div class="w3-light-grey w3-padding-large w3-padding-32 w3-margin-top" id="contact">
+    <h3 class="w3-center">Contact</h3>
+    <hr>
+    <p>Mauris neque quam, fermentum ut nisl vitae, convallis maximus nisl. Sed mattis nunc id lorem euismod placerat. Vivamus porttitor magna enim, ac accumsan tortor cursus at. Phasellus sed ultricies mi non congue ullam corper. Praesent tincidunt sed tellus.</p>
+
+    <form action="/action_page.php" target="_blank">
+      <div class="w3-section">
+        <label>Name</label>
+        <input class="w3-input w3-border" type="text" required name="Name">
+      </div>
+      <div class="w3-section">
+        <label>Email</label>
+        <input class="w3-input w3-border" type="text" required name="Email">
+      </div>
+      <div class="w3-section">
+        <label>Message</label>
+        <input class="w3-input w3-border" required name="Message">
+      </div>
+      <button type="submit" class="w3-button w3-block w3-dark-grey">Send</button>
+    </form><br>
+    <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank" class="w3-hover-text-green">w3.css</a></p>
+
   </div>
 
-  <div class="w3-third">
-    <img src="/images/downsizedImages/sparkssouthsistersunset.jpg" style="width:100%">
-    <img src="/images/downsizedImages/TwilightSouthCascades-1.jpg" style="width:100%">
-    <img src="/images/downsizedImages/WoodCuttingCascadeLakeHwy%20(1%20of%205).jpg" style="width:100%">
-    <img src="/images/downsizedImages/GreatSandDunesPano.jpg" style="width:100%">
-    <img src="/images/downsizedImages/NicoleShiprwreckBeach%20(4%20of%204).jpg" style="width:100%">
-    <img src="/images/downsizedImages/TumaloFalls16x9-1.jpg" style="width:100%">
-  </div>
-
-  <div class="w3-third">
-    
-    <img src="/images/downsizedImages/TumaloFalls16x9-1.jpg" style="width:100%">
-    <img src="/images/downsizedImages/sparkssouthsistersunset.jpg" style="width:100%">
-    <img src="/images/downsizedImages/GreatSandDunesPano.jpg" style="width:100%">
-    <img src="/images/downsizedImages/WoodCuttingCascadeLakeHwy%20(1%20of%205).jpg" style="width:100%">
-    <img src="/images/downsizedImages/NicoleShiprwreckBeach%20(4%20of%204).jpg" style="width:100%"> 
-    <img src="/images/downsizedImages/HoneyBeeLupine.jpg" style="width:100%">
-
-  </div>
+<!-- End page content -->
 </div>
-
-<!-- End Page Content -->
-</div>
-
-<!-- Footer -->
-<footer class="w3-container w3-padding-64 w3-light-grey w3-center w3-opacity w3-xlarge" style="margin-top:128px"> 
-  <i class="fa fa-facebook-official w3-hover-opacity"></i>
-  <i class="fa fa-instagram w3-hover-opacity"></i>
-  <i class="fa fa-snapchat w3-hover-opacity"></i>
-  <i class="fa fa-pinterest-p w3-hover-opacity"></i>
-  <i class="fa fa-twitter w3-hover-opacity"></i>
-  <i class="fa fa-linkedin w3-hover-opacity"></i>
-  <p class="w3-medium">Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank" class="w3-hover-text-green">w3.css</a></p>
-</footer>
- 
-<script>
-// Toggle grid padding
-function myFunction() {
-  var x = document.getElementById("myGrid");
-  if (x.className === "w3-row") {
-    x.className = "w3-row-padding";
-  } else { 
-    x.className = x.className.replace("w3-row-padding", "w3-row");
-  }
-}
-
-// Open and close sidebar
-function w3_open() {
-  document.getElementById("mySidebar").style.width = "100%";
-  document.getElementById("mySidebar").style.display = "block";
-}
-
-function w3_close() {
-  document.getElementById("mySidebar").style.display = "none";
-}
-</script>
 
 </body>
 </html>
