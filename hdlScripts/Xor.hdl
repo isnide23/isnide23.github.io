@@ -1,4 +1,3 @@
-// Exlusive-or gate
 
 CHIP Xor {
     In a, b;
