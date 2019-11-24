@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // This file is part of www.nand2tetris.org
 // and the book "The Elements of Computing Systems"
 // by Nisan and Schocken, MIT Press.
@@ -7,6 +8,8 @@
  * Exclusive-or gate:
  * out = not (a == b)
  */
+=======
+>>>>>>> 2300924ad3ec9185d17f2187d39e785dc607bc2a
 
 CHIP Xor {
     IN a, b;
