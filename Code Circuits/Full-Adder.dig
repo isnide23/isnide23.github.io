@@ -13,10 +13,10 @@
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>Carry_Out</string>
+          <string>Sum_Out</string>
         </entry>
       </elementAttributes>
-      <pos x="720" y="160"/>
+      <pos x="720" y="120"/>
     </visualElement>
     <visualElement>
       <elementName>In</elementName>
@@ -63,10 +63,10 @@
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>Sum_Out</string>
+          <string>Carry_Out</string>
         </entry>
       </elementAttributes>
-      <pos x="720" y="120"/>
+      <pos x="720" y="160"/>
     </visualElement>
   </visualElements>
   <wires>
