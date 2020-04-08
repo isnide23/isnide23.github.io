@@ -1,3 +1,3 @@
 #h1 isnide23.github.io
-#h1 this is my cs160 repo
-#h1 September 2019
+#h1 This is Ian Snyder's main repo
+
