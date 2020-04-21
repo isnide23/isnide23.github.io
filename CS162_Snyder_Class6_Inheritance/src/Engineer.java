@@ -4,6 +4,9 @@ public class Engineer extends Employee {
 
     }
 
+    public Engineer(String name, double baseSalary, int yearsOfExperience, int yearsAtCompany) {
+        super(name, baseSalary, yearsOfExperience, yearsAtCompany);
+    }
     public double engineerSalary() {
         return super.getBaseSalary() * 1.5;
     }

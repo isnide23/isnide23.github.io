@@ -15,7 +15,7 @@ public class Employee {
      * Parameterless constructor
      */
     public Employee(){
-        //TODO use default values
+        // default values
         this.name = "J Doe";
         this.baseSalary = 30000;
         this.yearsOfExperience = 0;
@@ -24,27 +24,32 @@ public class Employee {
     }
 
     /**
-     * ??Parameterless?? constructor
-     *@param TODO A variable of type TODO
-     *@param TODO A variable of type TODO
-     *@param TODO A variable of type TODO
-     *@param TODO A variable of type TODO
+     * Parameterlconstructor
+     *@param name of type String
+     *@param baseSalary of type double
+     *@param yearsOfExperience of type int
+     *@param yearsAtCompany of type int
      */
-    public Employee(String name, double baseSalary, int yearsOfExperience, int yearsAtCompany){
-        //TODO
+    public Employee(String name, double baseSalary, int yearsOfExperience, int yearsAtCompany) {
         this.name = name;
         this.baseSalary = baseSalary;
         this.yearsOfExperience = yearsOfExperience;
         this.yearsAtCompany = yearsAtCompany;
     }
 
-    //TODO Add needed getters and setters
+    /**
+     *
+     * @return name
+     */
 
-
-    public String getName() {
+   public String getName() {
         return name;
     }
 
+    /**
+     *
+     * @return baseSalary
+     */
     public double getBaseSalary() {
         return baseSalary;
     }
