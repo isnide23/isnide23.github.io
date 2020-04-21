@@ -5,7 +5,7 @@
  */
 public class Employee {
     private String name;
-    private double baseSalary;
+    private double baseSalary = 30000;
     private int yearsOfExperience;
     private int yearsAtCompany;
     private int vacationDaysInWeeks;
@@ -30,9 +30,8 @@ public class Employee {
      *@param yearsOfExperience of type int
      *@param yearsAtCompany of type int
      */
-    public Employee(String name, double baseSalary, int yearsOfExperience, int yearsAtCompany) {
+    public Employee(String name, int yearsOfExperience, int yearsAtCompany) {
         this.name = name;
-        this.baseSalary = baseSalary;
         this.yearsOfExperience = yearsOfExperience;
         this.yearsAtCompany = yearsAtCompany;
     }

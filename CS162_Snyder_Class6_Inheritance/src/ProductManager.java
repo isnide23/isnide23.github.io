@@ -4,6 +4,10 @@ public class ProductManager extends Employee {
 
     }
 
+    public ProductManager(String name, int yearsOfExperience, int yearsAtCompany) {
+        super(name, yearsOfExperience, yearsAtCompany);
+    }
+
     public int calcVacationDays() {
         if(super.getYearsAtCompany() >= 1 && super.getYearsAtCompany() < 2) {
             return 3;

@@ -4,6 +4,10 @@ public class TechnicalWriter extends Employee {
 
     }
 
+    public TechnicalWriter(String name, int yearsOfExperience, int yearsAtCompany) {
+        super(name, yearsOfExperience, yearsAtCompany);
+    }
+
     public int calcVacationDays() {
         if (getYearsAtCompany() >= 1) {
             return 1;
