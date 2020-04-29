@@ -49,6 +49,10 @@ public class Employee {
         this.baseSalary = baseSalary;
     }
 
+    public void setRaiseSalary(double raiseSalary) {
+        this.baseSalary = raiseSalary;
+    }
+
     public int getYearsOfExperience() {
         return yearsOfExperience;
     }
