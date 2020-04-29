@@ -29,6 +29,9 @@ public class Main {
         b1.giveEngineersRaise(100);
         System.out.println();
         b1.printEmployees();
+        System.out.println();
+        System.out.println(eng1.getBaseSalary());
+
 
 
 
