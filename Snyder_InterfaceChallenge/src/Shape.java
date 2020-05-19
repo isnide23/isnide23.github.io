@@ -33,11 +33,7 @@ abstract class Shape implements Comparable<Shape>  {
         if( (int) computeArea() - o.computeArea() == 0) {
             return (int) ((int) getPerimeter() - o.getPerimeter());
         }
-
-
-
         return (int) (computeArea() - o.computeArea());
-
     }
 
 

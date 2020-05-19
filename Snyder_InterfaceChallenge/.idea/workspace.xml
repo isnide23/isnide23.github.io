@@ -22,6 +22,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -55,21 +58,43 @@
       <screen x="0" y="23" width="1280" height="728" />
     </state>
     <state x="453" y="103" key="#com.intellij.ide.util.MemberChooser/0.23.1280.728@0.23.1280.728" timestamp="1589768682156" />
-    <state width="1238" height="347" key="GridCell.Tab.0.bottom" timestamp="1589779296106">
+    <state x="402" y="110" key="DetectedRootsChooserDialog" timestamp="1589780107143">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state x="402" y="110" key="DetectedRootsChooserDialog/0.23.1280.728@0.23.1280.728" timestamp="1589779640657" />
+    <state x="402" y="110" key="DetectedRootsChooserDialog/0.23.1280.729@0.23.1280.729" timestamp="1589780107143" />
+    <state width="1238" height="35" key="GridCell.Tab.0.bottom" timestamp="1589871826194">
       <screen x="0" y="23" width="1280" height="728" />
     </state>
-    <state width="1238" height="347" key="GridCell.Tab.0.bottom/0.23.1280.728@0.23.1280.728" timestamp="1589779296106" />
-    <state width="1238" height="347" key="GridCell.Tab.0.center" timestamp="1589779296105">
+    <state width="1238" height="35" key="GridCell.Tab.0.bottom/0.23.1280.728@0.23.1280.728" timestamp="1589871826194" />
+    <state width="1238" height="113" key="GridCell.Tab.0.bottom/0.23.1280.729@0.23.1280.729" timestamp="1589840477933" />
+    <state width="1238" height="35" key="GridCell.Tab.0.center" timestamp="1589871826192">
       <screen x="0" y="23" width="1280" height="728" />
     </state>
-    <state width="1238" height="347" key="GridCell.Tab.0.center/0.23.1280.728@0.23.1280.728" timestamp="1589779296105" />
-    <state width="1238" height="347" key="GridCell.Tab.0.left" timestamp="1589779296103">
+    <state width="1238" height="35" key="GridCell.Tab.0.center/0.23.1280.728@0.23.1280.728" timestamp="1589871826192" />
+    <state width="1238" height="113" key="GridCell.Tab.0.center/0.23.1280.729@0.23.1280.729" timestamp="1589840477932" />
+    <state width="1238" height="35" key="GridCell.Tab.0.left" timestamp="1589871826187">
       <screen x="0" y="23" width="1280" height="728" />
     </state>
-    <state width="1238" height="347" key="GridCell.Tab.0.left/0.23.1280.728@0.23.1280.728" timestamp="1589779296103" />
-    <state width="1238" height="347" key="GridCell.Tab.0.right" timestamp="1589779296105">
+    <state width="1238" height="35" key="GridCell.Tab.0.left/0.23.1280.728@0.23.1280.728" timestamp="1589871826187" />
+    <state width="1238" height="113" key="GridCell.Tab.0.left/0.23.1280.729@0.23.1280.729" timestamp="1589840477932" />
+    <state width="1238" height="35" key="GridCell.Tab.0.right" timestamp="1589871826194">
       <screen x="0" y="23" width="1280" height="728" />
     </state>
-    <state width="1238" height="347" key="GridCell.Tab.0.right/0.23.1280.728@0.23.1280.728" timestamp="1589779296105" />
+    <state width="1238" height="35" key="GridCell.Tab.0.right/0.23.1280.728@0.23.1280.728" timestamp="1589871826194" />
+    <state width="1238" height="113" key="GridCell.Tab.0.right/0.23.1280.729@0.23.1280.729" timestamp="1589840477933" />
+    <state x="91" y="23" key="SettingsEditor" timestamp="1589870111619">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state x="91" y="23" key="SettingsEditor/0.23.1280.728@0.23.1280.728" timestamp="1589870111619" />
+    <state x="128" y="23" key="SettingsEditor/0.23.1280.729@0.23.1280.729" timestamp="1589780115506" />
+    <state x="100" y="123" width="1080" height="528" key="dock-window-1" timestamp="1589866041326">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state x="100" y="123" width="1080" height="528" key="dock-window-1/0.23.1280.728@0.23.1280.728" timestamp="1589866041326" />
+    <state x="69" y="23" key="new project wizard" timestamp="1589840475590">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state x="69" y="23" key="new project wizard/0.23.1280.729@0.23.1280.729" timestamp="1589840475590" />
   </component>
 </project>
