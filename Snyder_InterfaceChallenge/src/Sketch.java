@@ -8,6 +8,8 @@ public class Sketch extends PApplet {
     Shape bigCircle;
     Shape bigRectangle;
     Shape smallCircle;
+    Shape bigCircle2;
+    Shape bigCircle3;
     ArrayList<Shape> shapes = new ArrayList<>();
 
 
@@ -19,10 +21,12 @@ public class Sketch extends PApplet {
     public void setup() {
         //you'll need to create all the shapes that make up your picture
 
-        bigRectangle = new Rectangle(new Point(200,200), this, 200, 200);
-        smallCircle = new Circle(new Point(200,200), this, 50);
+        bigRectangle = new Rectangle(new Point(200,200), this, 400, 200);
+        smallCircle = new Circle(new Point(400,300), this, 50);
+        bigCircle = new Circle(new Point(400,300), this, 100);
+        bigCircle2 = new Circle(new Point(400,300), this, 200);
+        bigCircle3 = new Circle(new Point(400,300), this, 400);
 
-        bigCircle = new Circle(new Point(200,200), this, 100);
         shapes.add(bigCircle);
         shapes.add(bigRectangle);
         shapes.add(smallCircle);
@@ -38,9 +42,9 @@ public class Sketch extends PApplet {
         strokeWeight(4);
         noFill();
 
-        shapes.get(0).draw();
-        shapes.get(1).draw();
-        shapes.get(2).draw();
+        for(int i = 0; i < shapes.size(); i++) {
+            shapes.get(i).draw();
+        }
 
 
 
