@@ -1,14 +1,20 @@
+import processing.core.PApplet;
+
 abstract class Shape implements Comparable<Shape>  {
 
     private Point position;
     private static int numShapes;
     private int id;
+    PApplet p;
 
-    public Shape(Point position){
+    public Shape(Point position, PApplet p){
         this.position=position;
         ++numShapes;
         setId(numShapes);
+        this.p = p;
     }
+
+
 
     public Point getPosition() {
         return position;
@@ -27,6 +33,10 @@ abstract class Shape implements Comparable<Shape>  {
     }
     abstract public double computeArea();
     abstract public double getPerimeter();
+
+    public void draw() {
+
+    }
 
     @Override
     public int compareTo(Shape o) {

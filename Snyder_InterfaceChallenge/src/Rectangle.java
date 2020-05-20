@@ -1,9 +1,11 @@
+import processing.core.PApplet;
+
 public class Rectangle extends Shape  {
 
     private double length, height;
 
-    Rectangle(Point upperLeft, double length, double height) {
-        super(upperLeft);
+    Rectangle(Point upperLeft, PApplet p, double length, double height) {
+        super(upperLeft, p);
         this.length = length;
         this.height = height;
     }

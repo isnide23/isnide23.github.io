@@ -1,12 +1,12 @@
-
+import processing.core.PApplet;
 
 public class Circle extends Shape {
 
     private double radius;
 
 
-    public Circle(Point center, double radius) {
-        super(center);
+    public Circle(Point center, PApplet p, double radius) {
+        super(center, p);
         this.radius = radius;
     }
 

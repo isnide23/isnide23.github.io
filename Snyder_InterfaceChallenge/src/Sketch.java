@@ -5,10 +5,15 @@ import java.util.ArrayList;
 public class Sketch extends PApplet {
 
     //you'll need a structure to hold many shapes
-    Shape shape;
-    DrawEllipse e;
-    ArrayList<DrawEllipse> shapes = new ArrayList<>();
-    int[] nums = {20, 30, 40, 50, 40, 30, 20};
+    /**DrawEllipse e;
+    DrawEllipse x;
+    DrawRectangle r;
+     */
+    Shape bigCircle;
+    Shape bigRectangle;
+    Shape smallCircle;
+    ArrayList<Shape> shapes = new ArrayList<>();
+    //int[] nums = {20, 30, 40, 50, 40, 30, 20};
 
 
     public void settings() {
@@ -17,7 +22,21 @@ public class Sketch extends PApplet {
 
     public void setup() {
         //you'll need to create all the shapes that make up your picture
-        e = new DrawEllipse(this);
+        bigCircle = new Circle(new Point(200,200), this, 100);
+        bigRectangle = new Rectangle(new Point(200,200), this, 200, 200);
+        smallCircle = new Circle(new Point(200,200), this, 50);
+        shapes.add(bigCircle);
+        shapes.add(bigRectangle);
+        shapes.add(smallCircle);
+
+        /**e = new DrawEllipse(this);
+        x = new DrawEllipse(this);
+        r = new DrawRectangle(this);
+        shapes.add(e);
+        shapes.add(x);
+        shapes.add(r);
+        */
+
 
 
     }
@@ -33,19 +52,23 @@ public class Sketch extends PApplet {
         strokeWeight(4);
         noFill();
 
-        e.draw();
+        shapes.get(0).draw();
+        shapes.get(1).draw();
+        shapes.get(2).draw();
+        //e.draw();
 
         /**for(int i = 0; i < nums.length; i++ ) {
             nums[i] = int(random(10,100));
         }
          */
-        for (int i = 0; i < nums.length; i++) {
+        /**for (int i = 0; i < nums.length; i++) {
             ellipse(i*100+100, 200, nums[i], nums[i]);
             ellipse(i*100+100, 300, nums[i], nums[i]);
             rect(i*100+100, 100, nums[i], nums[i]);
+         }
+        */
 
 
-        }
 
     }
 
