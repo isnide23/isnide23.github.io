@@ -10,6 +10,11 @@ public class Rectangle extends Shape  {
         this.height = height;
     }
 
+    public void draw() {
+        p.rect((float) getPosition().getX(),(float) getPosition().getY(),(float) this.length, (float) this.height);
+
+    }
+
     public double computeArea() { return  length*height; }
     public double getPerimeter() {return 2*length + 2*height;}
 

@@ -17,4 +17,9 @@ public class Circle extends Shape {
     public double getPerimeter() {
         return 2*Math.PI*radius;
     }
+
+    public void draw() {
+        p.ellipse((float) getPosition().getX(),(float) getPosition().getY(),(float) this.radius, (float) this.radius);
+
+    }
 }
