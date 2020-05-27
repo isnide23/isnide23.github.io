@@ -23,13 +23,20 @@ class ParticleSystem {
         this.y = y;
         particles = new ArrayList<Particle>();
         for (int i = 0; i < NUMBER_OF_PARTICLES; ++i) {
+            x = x + 10;
             particles.add(new Particle(x, y,p));
         }
     }
 
-    void update() {
+    void updateUp() {
         for (Particle p : particles) {
-            p.move();
+            p.moveUp();
+        }
+    }
+
+    void updateDown() {
+        for (Particle p : particles) {
+            p.moveDown();
         }
     }
 

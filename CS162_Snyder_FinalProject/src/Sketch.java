@@ -10,9 +10,13 @@ public class Sketch extends PApplet {
     Shape smallCircle;
     Shape bigCircle2;
     Shape bigCircle3;
+
+
     ArrayList<Shape> shapes = new ArrayList<>();
     ArrayList<Particle> humans = new ArrayList<>();
     ArrayList<Particle> zombies = new ArrayList<>();
+    ParticleSystem humansP = new ParticleSystem(350, 100, this);
+    ParticleSystem zombiesP = new ParticleSystem(350, 400, this);
 
 
 
@@ -71,13 +75,17 @@ public class Sketch extends PApplet {
         for(int i = 0; i < shapes.size(); i++) {
             shapes.get(i).draw();
         }
-        for(int i = 0; i < humans.size(); i++) {
+        /**for(int i = 0; i < humans.size(); i++) {
             humans.get(i).draw();
         }
         for(int i = 0; i < zombies.size(); i++) {
             zombies.get(i).draw();
         }
-
+*/
+        humansP.draw();
+        zombiesP.draw();
+        humansP.updateDown();
+        zombiesP.updateUp();
 
 
 

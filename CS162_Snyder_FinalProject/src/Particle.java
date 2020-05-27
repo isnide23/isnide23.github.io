@@ -38,10 +38,14 @@ class Particle {
         p.ellipse(x, y, size, size);
     }
 
-    void move() {
-        x += xVelocity;
+    void moveUp() {
+        //x += xVelocity;
         y += yVelocity;
-        yVelocity += ACCELERATION;
+        //yVelocity += ACCELERATION;
+    }
+
+    void moveDown() {
+        y -= yVelocity;
     }
 
 }
