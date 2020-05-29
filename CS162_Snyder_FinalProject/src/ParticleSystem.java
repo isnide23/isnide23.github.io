@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 class ParticleSystem {
 
-    final int NUMBER_OF_PARTICLES = 60;
+    final int NUMBER_OF_PARTICLES = 100;
     ArrayList<Particle> particles;
     int x;
     int y;

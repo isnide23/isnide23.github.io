@@ -5,8 +5,8 @@ import java.util.ArrayList;
 public class Sketch extends PApplet {
     ArrayList<Particle> humans = new ArrayList<>();
     ArrayList<Particle> zombies = new ArrayList<>();
-    ParticleSystem humansP = new ParticleSystem(20, 100, this);
-    ParticleSystem zombiesP = new ParticleSystem(20, 500, this);
+    ParticleSystem humansP = new ParticleSystem(-20, 100, this);
+    ParticleSystem zombiesP = new ParticleSystem(-20, 500, this);
 
 
 
