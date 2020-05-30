@@ -44,4 +44,16 @@ class ParticleSystem {
         for (Particle p : particles) p.draw();
     }
 
+    void detectCollisions() {
+
+    }
+
+    void collisionAction() {
+
+    }
+
+    void showPopCount(int NUMBER_OF_PARTICLES) {
+
+    }
+
 }
