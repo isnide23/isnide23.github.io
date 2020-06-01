@@ -4,8 +4,12 @@ import java.util.ArrayList;
 
 public class Sketch extends PApplet {
 
+    int pop = 10;
+
     ArrayList<Human> hA;
-    Human h;
+    ArrayList<Zombie> zA;
+
+
 
 
     public void settings() {
@@ -13,9 +17,14 @@ public class Sketch extends PApplet {
     }
 
     public void setup() {
-        h = new Human(100, 100, this);
+        //h = new Human(100, 100, this);
         hA = new ArrayList<>();
-        hA.add(h);
+        zA = new ArrayList<>();
+        for (int i = 0; i < pop; i++) {
+            hA.add(new Human(i * 100, 100, this));
+            zA.add(new Zombie(i * 100, 550, this));
+        }
+
 
     }
 
@@ -25,9 +34,11 @@ public class Sketch extends PApplet {
         strokeWeight(4);
         noFill();
 
-        for(int i : hA) {
+        for(int i = 0; i < hA.size(); i++) {
             hA.get(i).draw();
             hA.get(i).update();
+            zA.get(i).draw();
+            zA.get(i).update();
         }
     }
 
