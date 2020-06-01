@@ -1,6 +1,7 @@
 import processing.core.PApplet;
 
 public class Human {
+    Particle particle;
     int xC;
     int yC;
     PApplet p;

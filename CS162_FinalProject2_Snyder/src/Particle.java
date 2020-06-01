@@ -19,7 +19,7 @@ class Particle {
         xVelocity = p.random(-5, 5);
         yVelocity = p.random(-4, 0);
         c = p.color(p.random(100, 255), p.random(100, 255), p.random(100, 255), 75);
-        size = p.random(10, 20);
+        size = p.random(30, 50);
     }
 
     Particle(int x, int y, PApplet p) {
@@ -29,7 +29,7 @@ class Particle {
         xVelocity = p.random(-2, 2);
         yVelocity = p.random(-4, 0);
         c = p.color(p.random(100, 255), p.random(100, 255), p.random(100, 255), 75);
-        size = p.random(2, 10);
+        size = p.random(40, 60);
     }
 
     void draw() {
