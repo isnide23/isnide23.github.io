@@ -1,15 +1,28 @@
 import processing.core.PApplet;
 
-public class ZombieTwo extends Human {
-    public ZombieTwo() {
+public class Zombie {
+    int xC;
+    int yC;
+    float randRadius;
+    PApplet p;
+
+    public Zombie() {
 
     }
 
-    public ZombieTwo(int xC, int yC, PApplet p) {
-        super(xC, yC, p);
+    public Zombie(int xC, int yC, PApplet p) {
+        this.xC = xC;
+        this.yC = yC;
+        this.randRadius = p.random(60, 100);
+        this.p = p;
     }
 
-    @Override
+    public void draw() {
+        p.fill(50, 168, 119);
+        p.circle(xC, yC, randRadius);
+
+    }
+
     public void update() {
         //generate random number between zero and three
         int rNum = (int) p.random(0, 100);
@@ -30,5 +43,9 @@ public class ZombieTwo extends Human {
         if(rNum >= 90 && rNum <100) {
             xC -= -1;
         }
+    }
+
+    public float getRandRadius() {
+        return randRadius;
     }
 }

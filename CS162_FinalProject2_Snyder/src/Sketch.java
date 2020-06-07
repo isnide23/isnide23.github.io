@@ -5,13 +5,9 @@ import java.util.ArrayList;
 public class Sketch extends PApplet {
 
     int hPop = 10;
-    int zPop = 3;
-
+    int zPop = 10;
     ArrayList<Human> hA;
-    ArrayList<ZombieTwo> zTwoA;
-
-
-
+    ArrayList<Zombie> zA;
 
     public void settings() {
         size(800,600);
@@ -20,18 +16,15 @@ public class Sketch extends PApplet {
     public void setup() {
         //h = new Human(100, 100, this);
         hA = new ArrayList<>();
-        zTwoA = new ArrayList<>();
+        zA = new ArrayList<>();
         for (int i = 0; i < hPop; i++) {
-            hA.add(new Human(i * 100, 100, this));
+            hA.add(new Human(i * 100, 220, this));
         }
 
 
         for (int i = 0; i < zPop; i++) {
-            zTwoA.add(new ZombieTwo(i * 100, 500, this));
+            zA.add(new Zombie(i * 100, 380, this));
         }
-
-
-
 
     }
 
@@ -39,7 +32,7 @@ public class Sketch extends PApplet {
         background(0);
         stroke(255);
         strokeWeight(4);
-        noFill();
+        fill(255);
 
         text("Human population: " + hPop , 350, 30);
         text("Zombie population: " + zPop , 350, 570);
@@ -47,19 +40,33 @@ public class Sketch extends PApplet {
         for(int i = 0; i < hA.size(); i++) {
             hA.get(i).draw();
             hA.get(i).update();
-            hA.get(i).colDet(hA.get(i));
-
         }
 
-        for(int i = 0; i < zTwoA.size(); i++) {
-            zTwoA.get(i).draw();
-            zTwoA.get(i).update();
-            zTwoA.get(i).colDet(zTwoA.get(i));
+        /**
+         * 1.) get a human from human arrayList
+         * 2.) get a zombie from the zombie arrayList
+         * 3.) check if human and zombie are touching
+         * 4.) if yes, handle it - print "touching"
+         * 5.) else, get another zombie form the zombie arrayList
+         *
+         */
 
+        for(int i = 0; i < hA.size(); i++ ) {
+            for(int j = 0; j < zA.size(); j++) {
+                hA.get(i).colDet(zA.get(j));
+                if(hA.get(i).getColCheck() == true) {
+                    hA.remove(i);
+                    hPop--;
+                }
+
+            }
         }
 
-
-
+        for(int i = 0; i < zA.size(); i++) {
+            zA.get(i).draw();
+            zA.get(i).update();
+        }
     }
+
 
 }

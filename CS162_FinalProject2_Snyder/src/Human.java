@@ -6,6 +6,7 @@ public class Human {
     int yC;
     float randRadius;
     PApplet p;
+    boolean colCheck = false;
 
     public Human() {
 
@@ -19,8 +20,12 @@ public class Human {
     }
 
     public void draw() {
+        p.fill(200);
         p.circle(xC, yC, randRadius);
+
     }
+
+
 
     public void update() {
         //generate random number between zero and three
@@ -44,12 +49,21 @@ public class Human {
         }
     }
 
-    public void colDet(Human other) {
-        if(randRadius <= p.dist(xC, yC, other.xC, other.yC)) {
-            this.xC *= -1;
-            this.yC *= -1;
-            other.xC *= -1;
-            other.yC *= -1;
+    public void colDet(Zombie other) {
+        if((randRadius / 2) + (other.getRandRadius() / 2)  >= p.dist(xC, yC, other.xC, other.yC)) {
+            p.text("HIT" , 200, 200);
+            this.colCheck = true;
         }
+
     }
+
+    public boolean getColCheck() {
+        return colCheck;
+    }
+
+    public float getRandRadius() {
+        return randRadius;
+    }
+
+
 }
