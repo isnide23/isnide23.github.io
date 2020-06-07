@@ -1,6 +1,6 @@
 import processing.core.PApplet;
 
-public class Human extends Humanoid {
+public class Humanoid {
     Particle particle;
     int xC;
     int yC;
@@ -8,11 +8,11 @@ public class Human extends Humanoid {
     PApplet p;
     boolean colCheck = false;
 
-    public Human() {
+    public Humanoid() {
 
     }
 
-    public Human(int xC, int yC, PApplet p){
+    public Humanoid(int xC, int yC, PApplet p){
         this.xC = xC;
         this.yC = yC;
         this.randRadius = p.random(60, 100);
@@ -74,3 +74,4 @@ public class Human extends Humanoid {
 
 
 }
+

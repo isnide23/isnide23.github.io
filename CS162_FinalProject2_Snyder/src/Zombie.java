@@ -1,6 +1,6 @@
 import processing.core.PApplet;
 
-public class Zombie {
+public class Zombie extends Humanoid {
     int xC;
     int yC;
     float randRadius;

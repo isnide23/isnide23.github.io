@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="399b313b-e24c-4e6d-bfa8-9facfb41468d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Humanoid.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/CS162_FinalProject2_Snyder/Human.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CS162_FinalProject2_Snyder/Human.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/CS162_FinalProject2_Snyder/Sketch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CS162_FinalProject2_Snyder/Sketch.class" afterDir="false" />
@@ -105,9 +106,10 @@
       <screen x="0" y="23" width="1280" height="729" />
     </state>
     <state x="128" y="23" key="SettingsEditor/0.23.1280.729@0.23.1280.729" timestamp="1590779310961" />
-    <state x="333" y="210" key="com.intellij.ide.util.TipDialog" timestamp="1590981697621">
-      <screen x="0" y="23" width="1280" height="728" />
+    <state x="333" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1591555913280">
+      <screen x="0" y="23" width="1280" height="726" />
     </state>
+    <state x="333" y="209" key="com.intellij.ide.util.TipDialog/0.23.1280.726@0.23.1280.726" timestamp="1591555913280" />
     <state x="333" y="210" key="com.intellij.ide.util.TipDialog/0.23.1280.728@0.23.1280.728" timestamp="1590981697621" />
   </component>
 </project>

@@ -8,7 +8,7 @@ public class Sketch extends PApplet {
     final int zPop = 5;
     int hPopDisplay = hPop;
     int zPopDisplay = zPop;
-    ArrayList<Human> hA;
+    ArrayList<Humanoid> hA;
     ArrayList<Zombie> zA;
 
     public void settings() {
@@ -20,7 +20,7 @@ public class Sketch extends PApplet {
         hA = new ArrayList<>();
         zA = new ArrayList<>();
         for (int i = 0; i < hPop; i++) {
-            hA.add(new Human(i * 100, 220, this));
+            hA.add(new Humanoid(i * 100, 220, this));
 
         }
 
