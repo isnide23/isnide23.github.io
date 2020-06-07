@@ -49,10 +49,17 @@ public class Human {
         }
     }
 
+    public void vanish() {
+        p.fill(0,0);
+        p.noStroke();
+    }
+
     public void colDet(Zombie other) {
         if((randRadius / 2) + (other.getRandRadius() / 2)  >= p.dist(xC, yC, other.xC, other.yC)) {
             p.text("HIT" , 200, 200);
             this.colCheck = true;
+        } else {
+            this.colCheck = false;
         }
 
     }

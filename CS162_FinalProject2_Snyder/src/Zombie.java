@@ -45,6 +45,12 @@ public class Zombie {
         }
     }
 
+
+    public void vanish() {
+        p.fill(0,0);
+        p.noStroke();
+    }
+
     public float getRandRadius() {
         return randRadius;
     }

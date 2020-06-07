@@ -4,8 +4,10 @@ import java.util.ArrayList;
 
 public class Sketch extends PApplet {
 
-    int hPop = 10;
-    int zPop = 10;
+    final int hPop = 5;
+    final int zPop = 5;
+    int hPopDisplay = hPop;
+    int zPopDisplay = zPop;
     ArrayList<Human> hA;
     ArrayList<Zombie> zA;
 
@@ -19,11 +21,13 @@ public class Sketch extends PApplet {
         zA = new ArrayList<>();
         for (int i = 0; i < hPop; i++) {
             hA.add(new Human(i * 100, 220, this));
+
         }
 
 
         for (int i = 0; i < zPop; i++) {
             zA.add(new Zombie(i * 100, 380, this));
+
         }
 
     }
@@ -34,12 +38,21 @@ public class Sketch extends PApplet {
         strokeWeight(4);
         fill(255);
 
-        text("Human population: " + hPop , 350, 30);
-        text("Zombie population: " + zPop , 350, 570);
+        text("Human population: " + hPopDisplay , 350, 30);
+        text("Zombie population: " + zPopDisplay , 350, 570);
+
+
+
+
 
         for(int i = 0; i < hA.size(); i++) {
             hA.get(i).draw();
             hA.get(i).update();
+        }
+
+        for(int i = 0; i < zA.size(); i++) {
+            zA.get(i).update();
+            zA.get(i).draw();
         }
 
         /**
@@ -51,21 +64,18 @@ public class Sketch extends PApplet {
          *
          */
 
-        for(int i = 0; i < hA.size(); i++ ) {
-            for(int j = 0; j < zA.size(); j++) {
+        for(int i = hA.size() -1; i >= 0; i-- ) {
+            for(int j = 0; j < (zA.size() -1) ; j++) {
                 hA.get(i).colDet(zA.get(j));
                 if(hA.get(i).getColCheck() == true) {
                     hA.remove(i);
-                    hPop--;
+                    zPopDisplay--;
                 }
 
             }
         }
 
-        for(int i = 0; i < zA.size(); i++) {
-            zA.get(i).draw();
-            zA.get(i).update();
-        }
+
     }
 
 
