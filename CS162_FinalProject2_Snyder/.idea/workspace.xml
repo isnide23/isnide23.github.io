@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="399b313b-e24c-4e6d-bfa8-9facfb41468d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Humanoid.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CS162_FinalProject2_Snyder/Human.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CS162_FinalProject2_Snyder/Human.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CS162_FinalProject2_Snyder/Sketch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CS162_FinalProject2_Snyder/Sketch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CS162_FinalProject2_Snyder/Zombie.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CS162_FinalProject2_Snyder/Zombie.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Human.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sketch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sketch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Zombie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zombie.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
