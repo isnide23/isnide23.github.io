@@ -1,0 +1,124 @@
+[
+    {
+        "client_msg_id": "d2553439-32dd-40bb-b3e0-acce99f815fc",
+        "type": "message",
+        "text": "Today @ Co-Lab Studios:\n* Scot doing some final editing for Cascades Theatrical’s Teen Theater event from last month. They pickup materials after 3pm today",
+        "user": "U01HSDR8PQW",
+        "ts": "1623338900.001000",
+        "team": "T0107QM6U5Q",
+        "user_team": "T01HZD80SCT",
+        "source_team": "T01HZD80SCT",
+        "user_profile": {
+            "avatar_hash": "g79885bc2b42",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/79885bc2b428aa7767f07f3fdba84e59.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Scot",
+            "real_name": "Scot Brees",
+            "display_name": "Scot",
+            "team": "T01HZD80SCT",
+            "name": "cco_scot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bnK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Today @ Co-Lab Studios:\n* Scot doing some final editing for Cascades Theatrical’s Teen Theater event from last month. They pickup materials after 3pm today"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "37afa3ed-5d11-45e4-a222-d768a5fbbb41",
+        "type": "message",
+        "text": "* Some last edits to the OSU commencement came in about 15 minutes ago. I can do them when I get to the office.",
+        "user": "U01HSDR8PQW",
+        "ts": "1623338930.001700",
+        "team": "T0107QM6U5Q",
+        "user_team": "T01HZD80SCT",
+        "source_team": "T01HZD80SCT",
+        "user_profile": {
+            "avatar_hash": "g79885bc2b42",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/79885bc2b428aa7767f07f3fdba84e59.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Scot",
+            "real_name": "Scot Brees",
+            "display_name": "Scot",
+            "team": "T01HZD80SCT",
+            "name": "cco_scot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ulv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "* Some last edits to the OSU commencement came in about 15 minutes ago. I can do them when I get to the office."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c6115cd6-9a70-4d25-8930-94b663ead9f3",
+        "type": "message",
+        "text": "* The Bulletin will need a quick edit or two and then publish. <@U01JP2UBNJU> I am waiting on call with Jody to determine what to do this week…but…see separate message I’ll send to you.",
+        "user": "U01HSDR8PQW",
+        "ts": "1623339218.003100",
+        "team": "T0107QM6U5Q",
+        "user_team": "T01HZD80SCT",
+        "source_team": "T01HZD80SCT",
+        "user_profile": {
+            "avatar_hash": "g79885bc2b42",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/79885bc2b428aa7767f07f3fdba84e59.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Scot",
+            "real_name": "Scot Brees",
+            "display_name": "Scot",
+            "team": "T01HZD80SCT",
+            "name": "cco_scot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LA+y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "* The Bulletin will need a quick edit or two and then publish. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01JP2UBNJU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I am waiting on call with Jody to determine what to do this week…but…see separate message I’ll send to you."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

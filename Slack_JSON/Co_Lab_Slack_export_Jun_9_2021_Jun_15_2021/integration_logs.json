@@ -1,0 +1,23 @@
+[
+{"user_id":"U010L4Y9YDA","user_name":"adam.krynicki","date":"1623251645","change_type":"expanded","app_type":"HelloSign","app_id":"A08Q84QDV"},
+{"user_id":"U010L4Y9YDA","user_name":"adam.krynicki","date":"1619451154","change_type":"removed","reason":"user_deactivated","app_type":"Google Drive","app_id":"A6NL8MJ6Q","scope":"identify,bot,channels:read,files:read,team:read,users:read,users:read.email,chat:write:bot,links:read"},
+{"user_id":"U010LJKNWU8","user_name":"andrasm","date":"1618439195","change_type":"added","app_type":"OMEP Ubidots - Andras","app_id":"A01U5F5F59U"},
+{"user_id":"U010L4Y9YDA","user_name":"adam.krynicki","date":"1618417258","change_type":"updated","service_id":1956041650614,"service_type":"Email","scope":"incoming-webhook","channel":"C01V0J7J4L8"},
+{"user_id":"U010L4Y9YDA","user_name":"adam.krynicki","date":"1618417258","change_type":"added","service_id":1956041650614,"service_type":"Email","scope":"incoming-webhook","channel":"C01V0J7J4L8"},
+{"user_id":"U01BC3YUASF","user_name":"yong.bakos","date":"1618300152","change_type":"added","app_type":"OMEP IoT Test","app_id":"A01U43G5B4K"},
+{"user_id":"U010LJKLQNL","user_name":"provoscl","date":"1610522585","change_type":"added","app_type":"Google Drive","app_id":"A6NL8MJ6Q","scope":"identify,bot,channels:read,files:read,team:read,users:read,users:read.email,chat:write:bot,links:read"},
+{"user_id":"U010L4Y9YDA","user_name":"adam.krynicki","date":"1608216118","change_type":"expanded","app_type":"HelloSign","app_id":"A08Q84QDV"},
+{"user_id":"U010L4Y9YDA","user_name":"adam.krynicki","date":"1608216054","change_type":"expanded","app_type":"HelloSign","app_id":"A08Q84QDV"},
+{"user_id":"U010L4Y9YDA","user_name":"adam.krynicki","date":"1604793179","change_type":"added","app_type":"HelloSign","app_id":"A08Q84QDV"},
+{"user_id":"U010L4Y9YDA","user_name":"adam.krynicki","date":"1604334076","change_type":"added","app_type":"Typeform","app_id":"AD6SC3RT6","scope":"identify,channels:read,groups:read,im:read,team:read,users:read,users.profile:read,chat:write:bot"},
+{"user_id":"U010L4Y9YDA","user_name":"adam.krynicki","date":"1602853866","change_type":"updated","service_id":1433732575571,"service_type":"Email","scope":"incoming-webhook","channel":"C01CRD2UNEN"},
+{"user_id":"U010L4Y9YDA","user_name":"adam.krynicki","date":"1602853724","change_type":"added","service_id":1433732575571,"service_type":"Email","scope":"incoming-webhook","channel":"C01CRD2UNEN"},
+{"user_id":"U010L4Y9YDA","user_name":"adam.krynicki","date":"1602853724","change_type":"updated","service_id":1433732575571,"service_type":"Email","scope":"incoming-webhook","channel":"C01CRD2UNEN"},
+{"user_id":"U010L4Y9YDA","user_name":"adam.krynicki","date":"1602851777","change_type":"added","app_type":"Zapier","app_id":"A024R9PQM"},
+{"user_id":"U010L4Y9YDA","user_name":"adam.krynicki","date":"1602851748","change_type":"added","app_type":"Zapier","app_id":"A024R9PQM","scope":"identify,channels:history,groups:history,channels:read,emoji:read,files:read,groups:read,reactions:read,search:read,stars:read,team:read,users:read,users:read.email,channels:write,chat:write,files:write,groups:write,im:write,mpim:write,reminders:write,users.profile:write"},
+{"user_id":"U01AZP9JSEQ","user_name":"jonesjo3","date":"1602544917","change_type":"added","app_type":"Google Drive","app_id":"A6NL8MJ6Q","scope":"identify,bot,channels:read,files:read,team:read,users:read,users:read.email,chat:write:bot,links:read"},
+{"user_id":"U01AZP9JSEQ","user_name":"jonesjo3","date":"1601338696","change_type":"removed","reason":"user_uninstalled_app","app_type":"Trello","app_id":"A074YH40Z","scope":"identify,bot,commands,channels:history,groups:history,im:history,channels:read,emoji:read,groups:read,reminders:read,search:read,stars:read,team:read,users:read,users:read.email,chat:write:user,chat:write:bot,im:write,reminders:write"},
+{"user_id":"U01AZP9JSEQ","user_name":"jonesjo3","date":"1601338231","change_type":"added","app_type":"Trello","app_id":"A074YH40Z","scope":"identify,bot,commands,channels:history,groups:history,im:history,channels:read,emoji:read,groups:read,reminders:read,search:read,stars:read,team:read,users:read,users:read.email,chat:write:user,chat:write:bot,im:write,reminders:write"},
+{"user_id":"U010AGX1PCH","user_name":"larada","date":"1585614454","change_type":"added","app_type":"Google Drive","app_id":"A6NL8MJ6Q","scope":"identify,bot,channels:read,files:read,team:read,users:read,users:read.email,chat:write:bot,links:read"},
+{"user_id":"U010AGX1PCH","user_name":"larada","date":"1585614444","change_type":"added","service_id":1037080662576,"service_type":"Google Drive","scope":"files:write:user"}
+]

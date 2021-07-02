@@ -1,0 +1,56 @@
+[
+    {
+        "client_msg_id": "8b6cf3ea-a003-452d-8354-62c5c1b8080f",
+        "type": "message",
+        "text": "Today @ Co-Lab Studios:\n* 9am setup for Zamp\/Dometic live events\n* 1pm &amp; 3pm live events for Zamp\/Dometic\n* 4:30pm live event for Laura Putnam\n\n* Got the studio mostly cleared of the commencement stuff. Need to get the white sit\/stand desks back into position and reset Set A\n\n* <@U01JBS0S6HF> or <@U01JP2UBNJU> need to get the last few edits done for Commencement using feedback from last night\/this morning. We’re SO CLOSE to being done with this project. Please make sure to have entries into Harvest as I will be submitting the project invoice for review.\n\nI’ll be working much of the day to get things done that keep getting pushed back. I might even put on headphones today. So…if you need me…use Slack or text me.",
+        "user": "U01HSDR8PQW",
+        "ts": "1623248707.004700",
+        "team": "T0107QM6U5Q",
+        "user_team": "T01HZD80SCT",
+        "source_team": "T01HZD80SCT",
+        "user_profile": {
+            "avatar_hash": "g79885bc2b42",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/79885bc2b428aa7767f07f3fdba84e59.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Scot",
+            "real_name": "Scot Brees",
+            "display_name": "Scot",
+            "team": "T01HZD80SCT",
+            "name": "cco_scot",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tn\/m4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Today @ Co-Lab Studios:\n* 9am setup for Zamp\/Dometic live events\n* 1pm & 3pm live events for Zamp\/Dometic\n* 4:30pm live event for Laura Putnam\n\n* Got the studio mostly cleared of the commencement stuff. Need to get the white sit\/stand desks back into position and reset Set A\n\n* "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01JBS0S6HF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " or "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01JP2UBNJU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " need to get the last few edits done for Commencement using feedback from last night\/this morning. We’re SO CLOSE to being done with this project. Please make sure to have entries into Harvest as I will be submitting the project invoice for review.\n\nI’ll be working much of the day to get things done that keep getting pushed back. I might even put on headphones today. So…if you need me…use Slack or text me."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

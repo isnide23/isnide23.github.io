@@ -1,0 +1,52 @@
+[
+    {
+        "client_msg_id": "655d0d7e-23e8-48f6-b606-e192298c283e",
+        "type": "message",
+        "text": "<https:\/\/research-assets.cbinsights.com\/2021\/06\/09175220\/The-Creator-Economy-Market-Map-2021.png>",
+        "user": "U010L4Y9YDA",
+        "ts": "1623369452.006100",
+        "team": "T0107QM6U5Q",
+        "user_team": "T0107QM6U5Q",
+        "source_team": "T0107QM6U5Q",
+        "user_profile": {
+            "avatar_hash": "de267abf708c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-25\/1027438074374_de267abf708c98aec8f7_72.jpg",
+            "first_name": "",
+            "real_name": "adam.krynicki",
+            "display_name": "",
+            "team": "T0107QM6U5Q",
+            "name": "adam.krynicki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "3000x2250px image",
+                "image_url": "https:\/\/research-assets.cbinsights.com\/2021\/06\/09175220\/The-Creator-Economy-Market-Map-2021.png",
+                "image_width": 3000,
+                "image_height": 2250,
+                "image_bytes": 468282,
+                "from_url": "https:\/\/research-assets.cbinsights.com\/2021\/06\/09175220\/The-Creator-Economy-Market-Map-2021.png",
+                "id": 1,
+                "original_url": "https:\/\/research-assets.cbinsights.com\/2021\/06\/09175220\/The-Creator-Economy-Market-Map-2021.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fKV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/research-assets.cbinsights.com\/2021\/06\/09175220\/The-Creator-Economy-Market-Map-2021.png"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

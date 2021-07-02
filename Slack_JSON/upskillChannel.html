@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<title>CoLab Slack Channel Data</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://www.w3schools.com/lib/w3-theme-black.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif;}
+.w3-sidebar {
+  z-index: 3;
+  width: 250px;
+  top: 43px;
+  bottom: 0;
+  height: inherit;
+}
+</style>
+<body>
+
+<!-- Navbar -->
+<div class="w3-container">
+  <h1>Upskill Data</h1>
+  <!-- <p>External Data from test.json</p>
+  <p id="test"></p> -->
+  <h2>External Data from Colab Slack Data</h2>
+  <p>SUBJECT:</p>
+  <p id="external-json"></p>
+  <p>FROM:</p>
+  <p id="external-json-two"></p>
+  <p>URL:</p>
+  <p id="external-json-three"></p>
+
+</div>
+
+
+<!-- END MAIN -->
+
+<script type="text/javascript" src="/test.json"></script>
+<script>
+// fetch("test.json")
+// .then(response => response.json())
+// .then(data => {
+//   document.getElementById("test").innerHTML = data.name
+// })
+fetch("/Co_Lab_Slack_export_Jun_9_2021_Jun_15_2021/upskillor/2021-06-09.json")
+  .then(response => response.json())
+  .then(data => {
+    document.getElementById("external-json").innerHTML =       data[0].files[0].subject
+    document.getElementById("external-json-two").innerHTML =   data[0].files[0].from[0].name
+    document.getElementById("external-json-three").innerHTML = data[0].files[0].preview
+  })
+const txt = '{"name":"John", "age":30, "city":"New York"}'
+const obj = JSON.parse(txt);
+document.getElementById("demo").innerHTML = obj.name + ", " + obj.age;
+</script>
+
+</body>
+</html>

@@ -1,0 +1,296 @@
+[
+    {
+        "client_msg_id": "7A89D39B-C317-46B8-B46C-3BC4D8E1F898",
+        "type": "message",
+        "text": "Yes, I scheduled everything for the week ",
+        "user": "U010LJKLQNL",
+        "ts": "1623694046.000300",
+        "team": "T0107QM6U5Q",
+        "user_team": "T0107QM6U5Q",
+        "source_team": "T0107QM6U5Q",
+        "user_profile": {
+            "avatar_hash": "883038f1b424",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-23\/1020934841701_883038f1b4244ba5df68_72.png",
+            "first_name": "",
+            "real_name": "Cloe Provost",
+            "display_name": "Cloe Provost",
+            "team": "T0107QM6U5Q",
+            "name": "provoscl",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tfie",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, I scheduled everything for the week "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "18fdcc24-d372-4420-b7a1-7d7e37da024a",
+        "type": "message",
+        "text": "Thanks <@U010LJKLQNL> and <@U010AGX1PCH>. I just wondered if someone from our office had done it.",
+        "user": "U01KLDKAK9T",
+        "ts": "1623698179.001100",
+        "team": "T0107QM6U5Q",
+        "user_team": "T01HZD80SCT",
+        "source_team": "T01HZD80SCT",
+        "user_profile": {
+            "avatar_hash": "f1468f7a5e3c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-24\/1675719262180_f1468f7a5e3c1c2cc627_72.png",
+            "first_name": "",
+            "real_name": "Jody Lawrence-Turner",
+            "display_name": "Jody Lawrence-Turner",
+            "team": "T01HZD80SCT",
+            "name": "jlawrence-turner",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DJM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010LJKLQNL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010AGX1PCH"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". I just wondered if someone from our office had done it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "944f41d0-7758-409c-8a15-a34abfa782e3",
+        "type": "message",
+        "text": "Regarding the restaurant\/food recommendations or tags, I'd like to capture like 3 of the most recommended each week if there is a way to do that. And as you suggested <@U010LJKLQNL> maybe we make specific asks, like \"What's the best new food truck?\"",
+        "user": "U01KLDKAK9T",
+        "ts": "1623698591.005000",
+        "team": "T0107QM6U5Q",
+        "user_team": "T01HZD80SCT",
+        "source_team": "T01HZD80SCT",
+        "user_profile": {
+            "avatar_hash": "f1468f7a5e3c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-24\/1675719262180_f1468f7a5e3c1c2cc627_72.png",
+            "first_name": "",
+            "real_name": "Jody Lawrence-Turner",
+            "display_name": "Jody Lawrence-Turner",
+            "team": "T01HZD80SCT",
+            "name": "jlawrence-turner",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RT5A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Regarding the restaurant\/food recommendations or tags, I'd like to capture like 3 of the most recommended each week if there is a way to do that. And as you suggested "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010LJKLQNL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " maybe we make specific asks, like \"What's the best new food truck?\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "30e690fa-809d-4f97-af45-bf53af5a7517",
+        "type": "message",
+        "text": "By the way, congrats to both of you on graduation!!",
+        "user": "U01KLDKAK9T",
+        "ts": "1623698616.005500",
+        "team": "T0107QM6U5Q",
+        "user_team": "T01HZD80SCT",
+        "source_team": "T01HZD80SCT",
+        "user_profile": {
+            "avatar_hash": "f1468f7a5e3c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-24\/1675719262180_f1468f7a5e3c1c2cc627_72.png",
+            "first_name": "",
+            "real_name": "Jody Lawrence-Turner",
+            "display_name": "Jody Lawrence-Turner",
+            "team": "T01HZD80SCT",
+            "name": "jlawrence-turner",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dBS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "By the way, congrats to both of you on graduation!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "C7394370-77DA-4BFF-97A2-9BA9BEE49BBA",
+        "type": "message",
+        "text": "Okay! I believe there is a website that updates regularly with popular hashtags. Do we need more food truck submissions? Thank you!",
+        "user": "U010LJKLQNL",
+        "ts": "1623703719.006500",
+        "team": "T0107QM6U5Q",
+        "user_team": "T0107QM6U5Q",
+        "source_team": "T0107QM6U5Q",
+        "user_profile": {
+            "avatar_hash": "883038f1b424",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-23\/1020934841701_883038f1b4244ba5df68_72.png",
+            "first_name": "",
+            "real_name": "Cloe Provost",
+            "display_name": "Cloe Provost",
+            "team": "T0107QM6U5Q",
+            "name": "provoscl",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6cG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Okay! I believe there is a website that updates regularly with popular hashtags. Do we need more food truck submissions? Thank you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "502cfce0-6a99-46cd-ad58-e2119914e22c",
+        "type": "message",
+        "text": "Food trucks was just an example. Let's talk about how this would work.",
+        "user": "U01KLDKAK9T",
+        "ts": "1623704264.007100",
+        "team": "T0107QM6U5Q",
+        "user_team": "T01HZD80SCT",
+        "source_team": "T01HZD80SCT",
+        "user_profile": {
+            "avatar_hash": "f1468f7a5e3c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-01-24\/1675719262180_f1468f7a5e3c1c2cc627_72.png",
+            "first_name": "",
+            "real_name": "Jody Lawrence-Turner",
+            "display_name": "Jody Lawrence-Turner",
+            "team": "T01HZD80SCT",
+            "name": "jlawrence-turner",
+            "is_restricted": true,
+            "is_ultra_restricted": true
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2oM4v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Food trucks was just an example. Let's talk about how this would work."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "D5185939-E4E5-44CB-A40A-3F3A7F2223A0",
+        "type": "message",
+        "text": "Okay :blush:",
+        "user": "U010LJKLQNL",
+        "ts": "1623723739.007400",
+        "team": "T0107QM6U5Q",
+        "user_team": "T0107QM6U5Q",
+        "source_team": "T0107QM6U5Q",
+        "user_profile": {
+            "avatar_hash": "883038f1b424",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-23\/1020934841701_883038f1b4244ba5df68_72.png",
+            "first_name": "",
+            "real_name": "Cloe Provost",
+            "display_name": "Cloe Provost",
+            "team": "T0107QM6U5Q",
+            "name": "provoscl",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E0Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Okay "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,78 @@
+[
+    {
+        "client_msg_id": "5e6eb92a-b278-4879-bf03-c5b7d0ad2c67",
+        "type": "message",
+        "text": "Letting everyone know that there have been some minor changes in the Deschutes process, which will make it so I won't be able to send out award emails until tomorrow.",
+        "user": "U021PV8JDEE",
+        "ts": "1623365205.029500",
+        "team": "T0107QM6U5Q",
+        "user_team": "T021Q5QL81H",
+        "source_team": "T021Q5QL81H",
+        "user_profile": {
+            "avatar_hash": "d7420a26d043",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2081911206576_d7420a26d04337c185ff_72.png",
+            "first_name": "",
+            "real_name": "Jared Puckett",
+            "display_name": "Jared Puckett",
+            "team": "T021Q5QL81H",
+            "name": "jpuckett",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6Bnm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Letting everyone know that there have been some minor changes in the Deschutes process, which will make it so I won't be able to send out award emails until tomorrow."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "89f9934b-1586-4d48-a151-f4d5944a41dc",
+        "type": "message",
+        "text": "However, I am still going to send the Crook ones out today.",
+        "user": "U021PV8JDEE",
+        "ts": "1623365218.029800",
+        "team": "T0107QM6U5Q",
+        "user_team": "T021Q5QL81H",
+        "source_team": "T021Q5QL81H",
+        "user_profile": {
+            "avatar_hash": "d7420a26d043",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2081911206576_d7420a26d04337c185ff_72.png",
+            "first_name": "",
+            "real_name": "Jared Puckett",
+            "display_name": "Jared Puckett",
+            "team": "T021Q5QL81H",
+            "name": "jpuckett",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cctQd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "However, I am still going to send the Crook ones out today."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

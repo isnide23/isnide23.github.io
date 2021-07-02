@@ -1,0 +1,10 @@
+{
+    "name": "Jan",
+    "age": 27,
+    "major": "Computer Science",
+    "languages": [
+        "English",
+        "German",
+        "Norwegian"
+    ]
+}
