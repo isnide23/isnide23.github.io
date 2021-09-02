@@ -1,0 +1,203 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F02C9FSG88J",
+                "created": 1629877569,
+                "timestamp": 1629833131,
+                "name": "Welcome aboard,",
+                "title": "Welcome aboard,",
+                "mimetype": "text\/html",
+                "filetype": "email",
+                "pretty_type": "Email",
+                "user": "USLACKBOT",
+                "editable": true,
+                "size": 4961,
+                "mode": "email",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": true,
+                "username": "email",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0107QM6U5Q-F02C9FSG88J\/welcome_aboard_?t=xoxe-1007837232194-2423341078998-2427062880421-aea2b988d7c03277c7f9ce44e6c50b74",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0107QM6U5Q-F02C9FSG88J\/download\/welcome_aboard_?t=xoxe-1007837232194-2423341078998-2427062880421-aea2b988d7c03277c7f9ce44e6c50b74",
+                "permalink": "https:\/\/co-labconsultancy.slack.com\/files\/USLACKBOT\/F02C9FSG88J\/welcome_aboard_",
+                "permalink_public": "https:\/\/slack-files.com\/T0107QM6U5Q-F02C9FSG88J-e923b4d116",
+                "subject": "Welcome aboard,",
+                "to": [
+                    {
+                        "address": "",
+                        "name": "email",
+                        "original": "email <>"
+                    }
+                ],
+                "from": [
+                    {
+                        "address": "newsletter@192.206.4.210",
+                        "name": "TiE - Global Entrepreneurship Organization",
+                        "original": "TiE - Global Entrepreneurship Organization <newsletter@192.206.4.210>"
+                    }
+                ],
+                "cc": [],
+                "attachments": [],
+                "original_attachment_count": 0,
+                "plain_text": "TiE Oregon This message confirms your subscription to the TiE Oregon newsletter. Thank you!https:\/\/oregon.tie.org\/ To unsubscribe, click here. To change subscriber options, click here.",
+                "preview": "<br><table align=\"center\"><tr><td style=\"color: #666; font-size: 14px;\">                     <div style=\"border-bottom: 3px solid #43A4D0; border-top: 10px solid #43A4D0; max-width: 500px; text-align: left;\">                         <div style=\"background-color: #EFEFEF; border-bottom: 1px solid #ddd; color: #000; font-size: 20px; padding: 10px 20px;\">                             TiE Oregon                        <\/div>                         <div style=\"background-color: #fff; line-height: 18px; padding: 20px;\">                              <p>This message confirms your subscription to the TiE Oregon newsletter.<\/p> <p>Thank you!<br><a href=\"https:\/\/oregon.tie.org\/\" style=\"color: #0088cc; text-decoration: none;\" rel=\"noopener noreferrer\">https:\/\/oregon.tie.org\/<\/a><\/p> <p>To unsubscribe, <a href=\"https:\/\/oregon.tie.org\/?na=u&amp;nk=87-bcaec696d7\" style=\"color: #0088cc; text-decoration: none;\" rel=\"noopener noreferrer\">click here<\/a>.  To change subscriber options, <a href=\"https:\/\/oregon.tie.org\/?na=p&amp;nk=87-bcaec696d7\" style=\"color: #0088cc; text-decoration: none;\" rel=\"noopener noreferrer\">click here<\/a>.<\/p>                         <\/div>                      <\/div>                 <\/td>             <\/tr><\/table>",
+                "preview_plain_text": "TiE Oregon This message confirms your subscription to the TiE Oregon newsletter. Thank you! To unsubscribe, click here. To change subscriber options, click here.",
+                "headers": {
+                    "date": "Tue, 24 Aug 2021 19:25:31 +0000",
+                    "in_reply_to": null,
+                    "reply_to": null,
+                    "message_id": "<fa2d8281be2d727ce578e8d3b9d22561@oregon.tie.org>"
+                },
+                "has_more": false,
+                "sent_to_self": false,
+                "bot_id": "B01U417K4J2",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "USLACKBOT",
+        "display_as_bot": true,
+        "bot_id": "B01U417K4J2",
+        "ts": "1629877569.000100"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F02C8KB9VQD",
+                "created": 1629908418,
+                "timestamp": 1629908415,
+                "name": "City Connects Neighborhoods to Sewer",
+                "title": "City Connects Neighborhoods to Sewer",
+                "mimetype": "text\/html",
+                "filetype": "email",
+                "pretty_type": "Email",
+                "user": "USLACKBOT",
+                "editable": true,
+                "size": 28676,
+                "mode": "email",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": true,
+                "username": "email",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0107QM6U5Q-F02C8KB9VQD\/city_connects_neighborhoods_to_sewer?t=xoxe-1007837232194-2423341078998-2427062880421-aea2b988d7c03277c7f9ce44e6c50b74",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0107QM6U5Q-F02C8KB9VQD\/download\/city_connects_neighborhoods_to_sewer?t=xoxe-1007837232194-2423341078998-2427062880421-aea2b988d7c03277c7f9ce44e6c50b74",
+                "permalink": "https:\/\/co-labconsultancy.slack.com\/files\/USLACKBOT\/F02C8KB9VQD\/city_connects_neighborhoods_to_sewer",
+                "permalink_public": "https:\/\/slack-files.com\/T0107QM6U5Q-F02C8KB9VQD-f14a30f842",
+                "subject": "City Connects Neighborhoods to Sewer",
+                "to": [
+                    {
+                        "address": "",
+                        "name": "email",
+                        "original": "email <>"
+                    }
+                ],
+                "from": [
+                    {
+                        "address": "orbend@public.govdelivery.com",
+                        "name": "City of Bend, OR",
+                        "original": "\"City of Bend, OR\" <orbend@public.govdelivery.com>"
+                    }
+                ],
+                "cc": [],
+                "attachments": [],
+                "original_attachment_count": 0,
+                "plain_text": "\/**View Email Container Start**\/ .view_email_container { font-family: Calibri, Arial; } .view_email_container .bottom { text-align: left; margin: 0px auto; } .view_email_container .block > label { display: inline-block; width: 70px; text-align: left; margin-right: 10px; } .view_email_block { padding: 10px; border: 1px solid #ccc; border-radius: 4px; margin-bottom: 10px; } .title_block { text-align: center; margin-bottom:10px !important; } .email_bottom_info_block .title_block { font-size: 70%;} .email_bottom_info_block { background-color: #f0f0f0; text-align: center; margin: 0px auto; } \/*Content Review Style*\/ .content_area { padding: 23px 22px 0px 22px;font-family: Calibri, Arial;} .content_area table td { font-family: Calibri, Arial; } .content_area:empty { padding: 0; } .content_area img { border: 0px; } .content_area a { color: #337ffe; } .clearfix:after { content: \".\"; display: block; height: 0; clear: both; visibility: hidden; font-size: 0px; } .detail-thumbnail { display: inline-block; vertical-align: top; } .detail-thumbnail img { display: block; max-width: 200px; margin: 0 15px 0 0; } .detail-title, .detail-subtitle, .detail-intro { margin: 0; } .detail-title { color: #337ffe; } .detail-intro { font-size: 100%; font-weight: normal; margin-bottom: 10px; font-style: italic; } .detail-list { margin: 0; padding: 0; list-style: none; display: inline-block; vertical-align: top; } .detail-list-label { display: inline-block; width: 120px; font-weight: bold; vertical-align: top; } .detail-list-value { display: inline-block; vertical-align: top; } .detail-content { padding: 10px 0; clear: both; } .detail-more { font-style: italic; font-size: 90%; float: right; } .detail-url {padding:0px 22px 10px 22px;} .detail-url a {color:#337ffe} \r\nCity Connects Neighborhoods to Sewer\r\n\r\nAs the City continues to grow, more neighborhoods are applying to the program.\r\n\r\nSeveral Bend neighborhoods have successfully connected to public sewer through the Septic to Sewer Conversion Program which allows people to convert from private septic systems to City sewer service and is funded through utility rates.\r\nPost Date: 08\/25\/2021 9:19 AM \r\nCity Connects Neighborhoods to Sewer \r\n\r\n \r\n\r\nSeveral Bend neighborhoods have successfully connected to public sewer through the Septic to Sewer Conversion Program [ https:\/\/www.bendoregon.gov\/city-projects\/infrastructure-projects\/septic-to-sewer-conversion-program?medium=email&source=govdelivery ] which allows people to convert from private septic systems to City sewer service and is funded through utility rates.\r\n\r\n \r\n\r\nThe Via Sandia, East Lake, and Orion neighborhoods in southeast Bend applied to the program and were approved for funding in early 2020. The project allowed 42 homeowners to decommission their aging septic systems and connect to public sewer. Sewer construction began in March 2021 and was completed in August 2021, ahead of schedule and within budget. \r\n\r\n \r\n\r\nThe Septic to Sewer Conversion Program is an ongoing effort allowing residents to apply annually to complete a sewer project in an area where properties are currently served by private onsite septic systems. Some residents are converting to sewer because their privately-owned septic systems are failing. Others are connecting because it allows them to develop their properties further, as improvements on properties with septic systems are limited. \r\n\r\n \r\n\r\nAs the City continues to grow, more neighborhoods are applying to the program. If you are interested in learning more or applying to the program, visit bendoregon.gov\/septictosewerprogram [ https:\/\/www.bendoregon.gov\/city-projects\/infrastructure-projects\/septic-to-sewer-conversion-program?medium=email&source=govdelivery ].\r\n\r\n \r\n\r\nWheelchair \r\n\r\nAccommodation Information for People with Disabilities\r\n\r\nTo obtain this information in an alternate format such as Braille, large print, electronic formats, etc. please contact Anne Aurand at aaurand@bendoregon.gov or 541-388-5573; Relay Users Dial 7-1-1.\r\n\r\nClick here for more information [ https:\/\/www.bendoregon.gov\/Home\/Components\/News\/News\/4723\/?medium=email&source=govdelivery ] \r\n\r\nSUBSCRIBER SERVICES:\r\n\r\nManage Subscriptions [ https:\/\/public.govdelivery.com\/accounts\/ORBEND\/subscriber\/edit?preferences=true#tab1 ]  |  Unsubscribe All [ https:\/\/public.govdelivery.com\/accounts\/ORBEND\/subscriber\/one_click_unsubscribe?verification=5.4f82a43501e64d9aa86e1a7aaf8bf3de&destination=i7z7x0u9w6y3p7r3%40co-labconsultancy.slack.com ]  |  Help [ https:\/\/subscriberhelp.govdelivery.com\/ ]\r\n\r\n \r\n________________________________________________________________________\r\n\r\nThis email was sent to i7z7x0u9w6y3p7r3@co-labconsultancy.slack.com using GovDelivery Communications Cloud, on behalf of: City of Bend, Oregon · 710 NW Wall St. · Bend, OR 97703 GovDelivery logo [ https:\/\/subscriberhelp.granicus.com\/?medium=email&source=govdelivery ]",
+                "preview": "<a rel=\"noopener noreferrer\"><\/a>             <style type=\"text\/css\"><\/style><div style=\"\">        <div style=\"border: 1px solid #CCC; border-radius: 4px; margin-bottom: 10px; padding: 10px;\">            <div style=\"padding: 23px 22px 0px 22px;\">           <h3 style=\"color: #337ffe; margin: 0;\">City Connects Neighborhoods to Sewer<\/h3>                  <h4 style=\"margin: 0;\">As the City continues to grow, more neighborhoods are applying to the program.<\/h4>                                   <h5 style=\"font-size: 100%; font-style: italic; font-weight: normal; margin: 0; margin-bottom: 10px;\">Several Bend neighborhoods have successfully connected to public sewer through the Septic to Sewer Conversion Program which allows people to convert from private septic systems to City sewer service and is funded through utility rates.<\/h5>                 <div style=\"display: inline-block; list-style: none; margin: 0; padding: 0; vertical-align: top;\">         <span style=\"display: inline-block; font-weight: bold; vertical-align: top; width: 120px;\">Post Date:<\/span>         <span style=\"display: inline-block; vertical-align: top;\">08\/25\/2021 9:19 AM<\/span>      <\/div>                    <div style=\"clear: both; padding: 10px 0;\">                 <h1 align=\"center\">City Connects Neighborhoods to Sewer <\/h1> <p> <\/p> <p>Several Bend neighborhoods have successfully connected to public sewer through the <a href=\"https:\/\/lnks.gd\/l\/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMTA4MjUuNDUwMjk4NjEiLCJ1cmwiOiJodHRwczovL3d3dy5iZW5kb3JlZ29uLmdvdi9jaXR5LXByb2plY3RzL2luZnJhc3RydWN0dXJlLXByb2plY3RzL3NlcHRpYy10by1zZXdlci1jb252ZXJzaW9uLXByb2dyYW0_bWVkaXVtPWVtYWlsJnNvdXJjZT1nb3ZkZWxpdmVyeSJ9.ET6PZ6-lTvj6QvX5PdUsEvsLzoyHru_STcV3ubbZWV0\/s\/1505867913\/br\/111405842540-l\" rel=\"noopener noreferrer\">Septic to Sewer Conversion Program<\/a> which allows people to convert from private septic systems to City sewer service and is funded through utility rates.<\/p> <p> <\/p> <p>The Via Sandia, East Lake, and Orion neighborhoods in southeast Bend applied to the program and were approved for funding in early 2020. The project allowed 42 homeowners<\/p><\/div><\/div><\/div><\/div>",
+                "preview_plain_text": "\/**View Email Container Start**\/ .view_email_container { font-family: Calibri, Arial; } .view_email_container .bottom { text-align: left; margin: 0px auto; } .view_email_container .block > label { display: inline-block; width: 70px; text-align: left; margin-right: 10px; } .view_email_block { padding: 10px; border: 1px solid #ccc; border-radius: 4px; margin-bottom: 10px; } .title_block { text-align: center; margin-bottom:10px !important; } .email_bottom_info_block .title_block { font-size: 70%;} ",
+                "headers": {
+                    "date": "Wed, 25 Aug 2021 16:20:15 +0000",
+                    "in_reply_to": null,
+                    "reply_to": "orbend@public.govdelivery.com",
+                    "message_id": "<17203688.596@public.govdelivery.com>"
+                },
+                "has_more": true,
+                "sent_to_self": false,
+                "bot_id": "B01U417K4J2",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "USLACKBOT",
+        "display_as_bot": true,
+        "bot_id": "B01U417K4J2",
+        "ts": "1629908418.000100"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F02BYTRQFT9",
+                "created": 1629942898,
+                "timestamp": 1629942896,
+                "name": "Statewide Outdoor Mask Mandate | Free Training | Workshops for Restaurant Employees | RFP Opportunity | Grant Writing Workshop",
+                "title": "Statewide Outdoor Mask Mandate | Free Training | Workshops for Restaurant Employees | RFP Opportunity | Grant Writing Workshop",
+                "mimetype": "text\/html",
+                "filetype": "email",
+                "pretty_type": "Email",
+                "user": "USLACKBOT",
+                "editable": true,
+                "size": 110938,
+                "mode": "email",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": true,
+                "username": "email",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0107QM6U5Q-F02BYTRQFT9\/statewide_outdoor_mask_mandate___free_training___workshops_for_restaurant_employees___rfp_opportunity___grant_writing_workshop?t=xoxe-1007837232194-2423341078998-2427062880421-aea2b988d7c03277c7f9ce44e6c50b74",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0107QM6U5Q-F02BYTRQFT9\/download\/statewide_outdoor_mask_mandate___free_training___workshops_for_restaurant_employees___rfp_opportunity___grant_writing_workshop?t=xoxe-1007837232194-2423341078998-2427062880421-aea2b988d7c03277c7f9ce44e6c50b74",
+                "permalink": "https:\/\/co-labconsultancy.slack.com\/files\/USLACKBOT\/F02BYTRQFT9\/statewide_outdoor_mask_mandate___free_training___workshops_for_restaurant_employees___rfp_opportunity___grant_writing_workshop",
+                "permalink_public": "https:\/\/slack-files.com\/T0107QM6U5Q-F02BYTRQFT9-71937792d0",
+                "subject": "Statewide Outdoor Mask Mandate | Free Training | Workshops for Restaurant Employees | RFP Opportunity | Grant Writing Workshop",
+                "to": [
+                    {
+                        "address": "",
+                        "name": "email",
+                        "original": "email <>"
+                    }
+                ],
+                "from": [
+                    {
+                        "address": "industry@traveloregon.com",
+                        "name": "Travel Oregon",
+                        "original": "\"Travel Oregon\" <industry@traveloregon.com>"
+                    }
+                ],
+                "cc": [],
+                "attachments": [],
+                "original_attachment_count": 0,
+                "plain_text": "To view this email online, paste this link into your browser:\r\nhttps:\/\/t.e2ma.net\/message\/dyyybh\/966v8kob\r\n\r\n\r\n\r\n\r\n\r\n  Aug. 25, 2021                                                                                                                                                                                          Photo by Andrea Johnson  \r\n\r\nGovernor Brown Announces Statewide Outdoor Mask Requirement\r\n\r\nYesterday, Governor Kate Brown announced new statewide outdoor mask requirements to help stop the spread of the highly contagious Delta variant. Effective Friday, August 27, masks will be required in most public outdoor settings, including large outdoor events, where physical distancing is not possible, and regardless of vaccination status. The Oregon Health Authority (OHA) also strongly recommends masking for outdoor gatherings at private residences when individuals from different households do not consistently maintain physical distance.\r\n\r\nThe outdoor mask requirement will go into effect this Friday, August 27, however Oregonians are strongly encouraged to immediately start wearing masks outdoors, as outlined in the news release (https:\/\/t.e2ma.net\/click\/dyyybh\/966v8kob\/tytrs3b). The video announcement is available here (https:\/\/t.e2ma.net\/click\/dyyybh\/966v8kob\/9qurs3b). \r\n\r\nFree Tips & Training to Avoid Mask Confrontations\r\n\r\nProviding good service and enforcing mask wearing can be challenging. The Oregon Hospitality Foundation is offering complimentary access, thanks to a generous sponsorship from Anheuser-Busch, to an online video segment about mask compliance. The short video provides tips to keep customer interactions calm and avoid confrontations when you encounter resistance to mask wearing. This training segment is open to anyone in Oregon who works at an organization that holds a liquor license. Access will be available Friday, Aug. 27 through Sept. 30.\r\n\r\nSign up now (https:\/\/t.e2ma.net\/click\/dyyybh\/966v8kob\/pjvrs3b) to be notified when registration is live. \r\n\r\nFree Workshops for Restaurant and Bar Employees and Owners\r\n\r\nDuring the Tourism Stakeholder Engagement Sessions this past spring, we heard that technical assistance and workforce training opportunities were some of the top tourism-related priorities needed in helping assist Oregon communities in rebuilding the economy. To support this need, Travel Oregon has partnered with the Independent Restaurant Alliance of Oregon (IRAO) to help make education on topics ranging from diversity, equity, and inclusion in the workplace to financial fundamentals for both restaurant and bar employees and employers affordable and accessible. An IRAO workshop series focusing on these topics kicked off in July and runs through October. Find more details and register (https:\/\/t.e2ma.net\/click\/dyyybh\/966v8kob\/5bwrs3b) for an upcoming workshop.\r\n\r\nIf you missed the recent Racial Equity for Restaurants workshop, you can view key takeaways here (https:\/\/t.e2ma.net\/click\/dyyybh\/966v8kob\/l4wrs3b).\r\n\r\nVisitor Profile Study RFP Closes Sept. 6\r\n\r\nTravel Oregon is seeking a strategic partner to develop and implement a Visitor Profile Study to inform our destination development and marketing strategies based on visitors’ travel preferences, motivations and experiences. We are planning to conduct a quarterly study to understand the profile of domestic overnight and day visitors for Oregon and its tourism regions. This study will establish benchmarks for a range of metrics including past, current, and future Oregon visitors’ characteristics, perceptions and behavior. View previous statewide visitor profile studies here (https:\/\/t.e2ma.net\/click\/dyyybh\/966v8kob\/1wxrs3b) and the regional studies here (https:\/\/t.e2ma.net\/click\/dyyybh\/966v8kob\/hpyrs3b). Our goal is to conduct the study this fall on a quarterly basis to establish seasonal trends for visitor profile and personas by Oregon tourism regions and statewide.\r\n\r\nLearn more and apply (https:\/\/t.e2ma.net\/click\/dyyybh\/966v8kob\/xhzrs3b). \r\n\r\nGrant Writing Workshop Series\r\n\r\nA grant writing workshop series hosted by NeighborWorks Umpqua and the Ford Institute for Community Building is being offered to all area nonprofit organizations this fall. The workshop series is designed to help beginning and intermediate grant writers in nonprofit organizations and governmental entities increase their skills for developing project proposals and successfully planning, writing and attaining grant funding.\r\n\r\nThis is a four-part series via Zoom on Thursdays from 2:30-5 p.m. The schedule is as follows:\r\n\r\nSept. 30 | Positioning Your Organization to be Grant Smart\r\n\r\nOct. 7 | Grant Writing and Grant Review\r\n\r\nOct. 14 | Strategic Thinking and Budgeting\r\n\r\nOct. 21 | Program Evaluation and Organizational Site Visits\r\n\r\nMore information is available here (https:\/\/t.e2ma.net\/click\/dyyybh\/966v8kob\/da0rs3b). Please direct questions to Meredith Howell, PhD (mailto:mhowell@nwumpqua.org). \r\n\r\nUpcoming Events \r\n\r\nOregon Heritage Grants Application Webinar (https:\/\/t.e2ma.net\/click\/dyyybh\/966v8kob\/t20rs3b), Sept. 2\r\n\r\nOregon Heritage Grants Application Webinar (https:\/\/t.e2ma.net\/click\/dyyybh\/966v8kob\/9u1rs3b), Sept. 9\r\n\r\nOregon Museums Association Virtual Conference (https:\/\/t.e2ma.net\/click\/dyyybh\/966v8kob\/pn2rs3b), Sept. 13-15\r\n\r\nNavigating the Healthcare Marketplace: Restaurant Owners (https:\/\/t.e2ma.net\/click\/dyyybh\/966v8kob\/5f3rs3b), Sept. 13\r\n\r\nNavigating the Healthcare Marketplace: Restaurant Workers (https:\/\/t.e2ma.net\/click\/dyyybh\/966v8kob\/l83rs3b), Sept. 14\r\n\r\nGreater Portland Athletic and Outdoor Virtual Tour (https:\/\/t.e2ma.net\/click\/dyyybh\/966v8kob\/104rs3b), Sept. 15\r\n\r\nOregon Hospitality Conference (https:\/\/t.e2ma.net\/click\/dyyybh\/966v8kob\/ht5rs3b), Sept. 19-20\r\n\r\nOregon Tourism Commission Meeting (https:\/\/t.e2ma.net\/click\/dyyybh\/966v8kob\/xl6rs3b), Oct. 5\r\n\r\nFinancial Literacy for Restaurant Workers (https:\/\/t.e2ma.net\/click\/dyyybh\/966v8kob\/de7rs3b), Oct. 5\r\n\r\n2021 Oregon Outdoor Recreation Summit (https:\/\/t.e2ma.net\/click\/dyyybh\/966v8kob\/t67rs3b), Oct. 17-23\r\n\r\nUpcoming Deadlines\r\n\r\nOregon Wine Country License Plates Matching Grants Applications (https:\/\/t.e2ma.net\/click\/dyyybh\/966v8kob\/9y8rs3b), due Sept. 15\r\n\r\nRural Opportunity Initiative Grant Applications (https:\/\/t.e2ma.net\/click\/dyyybh\/966v8kob\/pr9rs3b), due Sept. 20\r\n\r\nOregon Heritage Grants Applications (https:\/\/t.e2ma.net\/click\/dyyybh\/966v8kob\/5jass3b), due Oct. 20\r\n\r\nWhy Guides Registration (https:\/\/t.e2ma.net\/click\/dyyybh\/966v8kob\/lcbss3b), extended through Dec. 2021\r\n\r\nResearch & Reports\r\n\r\nStatewide Lodging Weekly Report (https:\/\/t.e2ma.net\/click\/dyyybh\/966v8kob\/14bss3b) (Aug. 8)\r\n\r\nStatewide Lodging Monthly Report (https:\/\/t.e2ma.net\/click\/dyyybh\/966v8kob\/hxcss3b) (July 2021)\r\n\r\nOregon Monthly Barometer (https:\/\/t.e2ma.net\/click\/dyyybh\/966v8kob\/xpdss3b) (July 2021)\r\n\r\nCOVID-19 Data Report (https:\/\/t.e2ma.net\/click\/dyyybh\/966v8kob\/diess3b) (June 28)\r\n\r\nAmerican Travel Trends & Sentiment (https:\/\/t.e2ma.net\/click\/dyyybh\/966v8kob\/tafss3b) (Aug. 23)\r\n\r\nThe Economic Impact of Travel in Oregon (https:\/\/t.e2ma.net\/click\/dyyybh\/966v8kob\/92fss3b) (2020)\r\n\r\nGolf and Golf Tourism Economic Impacts (https:\/\/t.e2ma.net\/click\/dyyybh\/966v8kob\/pvgss3b) (2019)\r\n\r\nU.S. Travel (https:\/\/t.e2ma.net\/click\/dyyybh\/966v8kob\/5nhss3b)\r\n\r\nAgritourism and On-Farm Direct Sales Survey: Results for the U.S. (https:\/\/t.e2ma.net\/click\/dyyybh\/966v8kob\/lgiss3b)\r\n\r\nOregon Outdoor Recreation Economic Impact Study (https:\/\/t.e2ma.net\/click\/dyyybh\/966v8kob\/18iss3b)\r\n\r\n2020 Oregon Tourism Workforce Assessment (https:\/\/t.e2ma.net\/click\/dyyybh\/966v8kob\/h1jss3b)\r\n\r\nDestinations International COVID-19 Resources & Research (https:\/\/t.e2ma.net\/click\/dyyybh\/966v8kob\/xtkss3b)\r\n\r\nCOVID-19 Travel Industry Monitor (https:\/\/t.e2ma.net\/click\/dyyybh\/966v8kob\/dmlss3b)\r\n\r\nTop 10 Global Consumer Trends 2021 by Euromonitor International (https:\/\/t.e2ma.net\/click\/dyyybh\/966v8kob\/temss3b)\r\n\r\n\r\n\r\n\r\n\r\n319 SW Washington Street  Suite 700 | Portland, OR 97204 US\r\n\r\nThis email was sent to i7z7x0u9w6y3p7r3@co-labconsultancy.slack.com.\r\nTo ensure that you continue receiving our emails,\r\nplease add us to your address book or safe list.\r\n\r\nmanage your preferences (https:\/\/app.e2ma.net\/app2\/audience\/signup\/1741352\/1724387\/426094563\/109501907939\/?s=b0txRjwgqL646aOBxtrlnJ_3lElBrJFjYjTLIcfPwOo)\r\nopt out (https:\/\/t.e2ma.net\/optout\/dyyybh\/966v8kob?s=Gb28kJvY9rxeU4T6f85rA-xjBSH8snkMb80L26dUga8&r=aHR0cHM6Ly9hcHAuZTJtYS5uZXQvYXBwMi9hdWRpZW5jZS9vcHRfb3V0LzE3NDEzNTIvMTcyNDM4Ny8xMDk1MDE5MDc5MzkvP3M9SERSSlpRNmQ4LU1aMFQxUllIZmZYTXlHYUU5Y0hhNTd1QWFWeFZ5QzNxWQ%3D%3D) using TrueRemove(r).\r\n\r\nGot this as a forward? Sign up (https:\/\/app.e2ma.net\/app2\/audience\/signup\/1741352\/1724387.426094563\/) to receive our future emails.\r\nemail powered by Emma(R)\r\nhttp:\/\/www.myemma.com\/",
+                "preview": "<div style=\"background-color: #fff; margin: 0; padding: 0;\"> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"font-size: 12px;\" width=\"100%\"><tbody><tr><td align=\"center\" style=\"padding-top: 15px;\"> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"font-size: 12px; width: 650px;\"><tbody><tr><td align=\"left\"> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"font-size: 12px;\" width=\"100%\"><tbody><tr><td align=\"center\"> <img alt=\"\" height=\"131.5234375\" src=\"https:\/\/slack-imgs.com\/?url=https%3A%2F%2Fd31hzlhk6di2h5.cloudfront.net%2F20210825%2F61%2F35%2F2c%2Fad%2F0b16aee012e9bbb34524ad36_1300x262.jpg\" style=\"border: 0; display: block;\" width=\"650\"><\/td> <\/tr><tr><td align=\"left\"> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"font-size: 12px; width: 650px;\"><tbody><tr><td align=\"left\"> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"font-size: 12px;\" width=\"100%\"><tbody><tr><td> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"font-size: 12px;\" width=\"100%\"><tbody><tr><td style=\"padding-bottom: 5px;\"><\/td> <\/tr><tr><td style=\"padding-bottom: 5px; padding-left: 5px; padding-right: 5px;\"> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"font-size: 12px;\" width=\"100%\"><tbody><tr><td style=\"background-color: transparent; padding: 0 0 0 0;\"> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"font-size: 12px;\"><tbody><tr><td><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"font-size: 12px;\"><tbody><tr><td style=\"padding: 0px 0px 0px 0px; text-align: center;\"> <img alt=\"\" border=\"0\" height=\"425\" src=\"https:\/\/slack-imgs.com\/?url=https%3A%2F%2Fd31hzlhk6di2h5.cloudfront.net%2F20210825%2F6d%2F97%2F51%2F67%2F8561cd84a58b7d58f677c72e_1280x850.jpg\" style=\"display: block;\" width=\"640\"><\/td> <\/tr><\/tbody><\/table><\/td><\/tr><\/tbody><\/table><\/td> <\/tr><\/tbody><\/table><\/td> <\/tr><\/tbody><\/table><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"font-size: 12px;\" width=\"100%\"><tbody><tr><td style=\"font-size: 12px; line-height: 1.5; padding-bottom: 0; padding-left: 0; padding-right: 0;\"> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"font-size: 12px;\" width=\"100%\"><tbody><tr><td style=\"background-color: transparent; padding: 0;\"> <div> <div style=\"color: #000; display: block; font-size: 14px; font-weight: normal; line-height: 1.5; margin-bottom: 10px; text-indent: 0px;\"><span style=\"font-size: 10px;\">  Aug. 25, 2021                                                                                                                                                                                          Photo by Andrea Johnson  <\/span><\/div> <\/div> <\/td> <\/tr><\/tbody><\/table><\/td> <\/tr><\/tbody><\/table><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"font-size: 12px;\" width=\"100%\"><tbody><tr><td style=\"font-size: 12px; line-height: 1.5; padding-bottom: 0; padding-left: 0; padding-right: 0;\"> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"font-size: 12px;\" width=\"100%\"><tbody><tr><td style=\"background-color: transparent; padding: 0;\"> <div> <h1 style=\"border: 0; color: #319b59; display: block; font: inherit; font-size: 26px; font-weight: bold; line-height: 28px; margin: 0; padding: 0; vertical-align: baseline;\"><span><b>Governor Brown Announces Statewide Outdoor Mask Requirement<\/b><\/span><\/h1> <div style=\"color: #000; display: block; font-size: 14px; font-weight: normal; line-height: 1.5; margin-bottom: 10px;\">Yesterday, Governor Kate Brown announced new statewide outdoor mask requirements to help stop the spread of the highly contagious Delta variant. Effective Friday, August 27, masks will be required in most public outdoor settings, including large outdoor events, where physical distancing is not possible, and regardless of vaccination status. The Oregon Health Authority (OHA) also strongly recommends masking for outdoor gatherings at private residences when individuals from different households do not consistently maintain physical distance.<\/div> <div style=\"color: #000; display: block; font-size: 14px; font-weight: normal; line-height: 1.5; margin-bottom: 10px;\"><span> <\/span><\/div> <div style=\"color: #000; display: block; font-size: 14px; font-weight: normal; line-height: 1.5; margin-bottom: 10px;\"> <span style=\"background-color: rgb(255, 255, 255); color: rgb(40, 60, 70);\">The outdoor mask requirement will go into effect this Friday, August 27, however Oregonians are strongly encouraged to immediately start wea<\/span><\/div><\/div><\/td><\/tr><\/tbody><\/table><\/td><\/tr><\/tbody><\/table><\/td><\/tr><\/tbody><\/table><\/td><\/tr><\/tbody><\/table><\/td><\/tr><\/tbody><\/table><\/td><\/tr><\/tbody><\/table><\/td><\/tr><\/tbody><\/table><\/div>",
+                "preview_plain_text": "To view this email online, paste this link into your browser:\r\n\r\n\r\n\r\n\r\n\r\n\r\n  Aug. 25, 2021                                                                                                                                                                                          Photo by Andrea Johnson  \r\n\r\nGovernor Brown Announces Statewide Outdoor Mask Requirement\r\n\r\nYesterday, Governor Kate Brown announced new statewide outdoor mask requirements to help stop the spread of the highly contagious De",
+                "headers": {
+                    "date": "Thu, 26 Aug 2021 01:54:56 -0000",
+                    "in_reply_to": null,
+                    "reply_to": "industry@traveloregon.com",
+                    "message_id": "<xt8ab.dyyybh.966v8kob@e2ma.net>"
+                },
+                "has_more": true,
+                "sent_to_self": false,
+                "bot_id": "B01U417K4J2",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "USLACKBOT",
+        "display_as_bot": true,
+        "bot_id": "B01U417K4J2",
+        "ts": "1629942898.000100"
+    }
+]
