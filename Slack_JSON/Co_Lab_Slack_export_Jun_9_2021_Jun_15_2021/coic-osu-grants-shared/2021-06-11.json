@@ -1,0 +1,1013 @@
+[
+    {
+        "client_msg_id": "90db0e67-5a2f-4f41-84a6-de61ce30acfa",
+        "type": "message",
+        "text": "Yesterday, the Pine Theater from Crook certified the Deschutes acceptance contract. Should I go tell them to do the Crook one instead?",
+        "user": "U021PV8JDEE",
+        "ts": "1623429232.030800",
+        "team": "T0107QM6U5Q",
+        "user_team": "T021Q5QL81H",
+        "source_team": "T021Q5QL81H",
+        "user_profile": {
+            "avatar_hash": "d7420a26d043",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2081911206576_d7420a26d04337c185ff_72.png",
+            "first_name": "",
+            "real_name": "Jared Puckett",
+            "display_name": "Jared Puckett",
+            "team": "T021Q5QL81H",
+            "name": "jpuckett",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KjiU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yesterday, the Pine Theater from Crook certified the Deschutes acceptance contract. Should I go tell them to do the Crook one instead?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "07F25E70-B5E9-4934-B7E3-5F6492BA6A64",
+        "type": "message",
+        "text": "Yes",
+        "user": "U010L4Y9YDA",
+        "ts": "1623429272.031000",
+        "team": "T0107QM6U5Q",
+        "user_team": "T0107QM6U5Q",
+        "source_team": "T0107QM6U5Q",
+        "user_profile": {
+            "avatar_hash": "de267abf708c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-25\/1027438074374_de267abf708c98aec8f7_72.jpg",
+            "first_name": "",
+            "real_name": "adam.krynicki",
+            "display_name": "",
+            "team": "T0107QM6U5Q",
+            "name": "adam.krynicki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "47Yqc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2c0acf8d-03d5-410b-9fe5-4ecee4821818",
+        "type": "message",
+        "text": "Roger. I'll let them know.",
+        "user": "U021PV8JDEE",
+        "ts": "1623429401.031200",
+        "team": "T0107QM6U5Q",
+        "user_team": "T021Q5QL81H",
+        "source_team": "T021Q5QL81H",
+        "user_profile": {
+            "avatar_hash": "d7420a26d043",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2081911206576_d7420a26d04337c185ff_72.png",
+            "first_name": "",
+            "real_name": "Jared Puckett",
+            "display_name": "Jared Puckett",
+            "team": "T021Q5QL81H",
+            "name": "jpuckett",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MU26",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Roger. I'll let them know."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b558d575-43a6-42f3-aae6-5350bd151e03",
+        "type": "message",
+        "text": "Just sent out the Deschutes emails.",
+        "user": "U021PV8JDEE",
+        "ts": "1623444424.031400",
+        "team": "T0107QM6U5Q",
+        "user_team": "T021Q5QL81H",
+        "source_team": "T021Q5QL81H",
+        "user_profile": {
+            "avatar_hash": "d7420a26d043",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2081911206576_d7420a26d04337c185ff_72.png",
+            "first_name": "",
+            "real_name": "Jared Puckett",
+            "display_name": "Jared Puckett",
+            "team": "T021Q5QL81H",
+            "name": "jpuckett",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R2X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Just sent out the Deschutes emails."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U010L4Y9YDA>, here is David's Working sheet. When I converted it to a google sheet rather than an excel, it broke some formulas but the list of approved businesses is there and I added a column for if we have received contracts that your team can populate. <https:\/\/docs.google.com\/spreadsheets\/d\/1R9nczI7wmOxAaK2lppkXjmAjPNCJzGAD8ODjzGV75Jg\/edit?usp=sharing>",
+        "files": [
+            {
+                "id": "F0250NLTAPN",
+                "created": 1623445783,
+                "timestamp": 1623445783,
+                "name": "GRANT COIC Deschutes County (DG 6-11-21)",
+                "title": "GRANT COIC Deschutes County (DG 6-11-21)",
+                "mimetype": "application\/vnd.google-apps.spreadsheet",
+                "filetype": "gsheet",
+                "pretty_type": "G Suite Spreadsheet",
+                "user": "U021PV8JDEE",
+                "editable": false,
+                "size": 127478,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/docs.google.com\/spreadsheets\/d\/1R9nczI7wmOxAaK2lppkXjmAjPNCJzGAD8ODjzGV75Jg\/edit?usp=sharing",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021Q5QL81H-F0250NLTAPN-a68ebb7295\/grant_coic_deschutes_county__dg_6-11-21__64.png?t=xoxe-1007837232194-2165138914839-2203710763040-85f1456b2d269fd3d1c6df553c5bed04",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021Q5QL81H-F0250NLTAPN-a68ebb7295\/grant_coic_deschutes_county__dg_6-11-21__80.png?t=xoxe-1007837232194-2165138914839-2203710763040-85f1456b2d269fd3d1c6df553c5bed04",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021Q5QL81H-F0250NLTAPN-a68ebb7295\/grant_coic_deschutes_county__dg_6-11-21__360.png?t=xoxe-1007837232194-2165138914839-2203710763040-85f1456b2d269fd3d1c6df553c5bed04",
+                "thumb_360_w": 254,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021Q5QL81H-F0250NLTAPN-a68ebb7295\/grant_coic_deschutes_county__dg_6-11-21__480.png?t=xoxe-1007837232194-2165138914839-2203710763040-85f1456b2d269fd3d1c6df553c5bed04",
+                "thumb_480_w": 339,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021Q5QL81H-F0250NLTAPN-a68ebb7295\/grant_coic_deschutes_county__dg_6-11-21__160.png?t=xoxe-1007837232194-2165138914839-2203710763040-85f1456b2d269fd3d1c6df553c5bed04",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021Q5QL81H-F0250NLTAPN-a68ebb7295\/grant_coic_deschutes_county__dg_6-11-21__720.png?t=xoxe-1007837232194-2165138914839-2203710763040-85f1456b2d269fd3d1c6df553c5bed04",
+                "thumb_720_w": 509,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T021Q5QL81H-F0250NLTAPN-a68ebb7295\/grant_coic_deschutes_county__dg_6-11-21__800.png?t=xoxe-1007837232194-2165138914839-2203710763040-85f1456b2d269fd3d1c6df553c5bed04",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1132,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T021Q5QL81H-F0250NLTAPN-a68ebb7295\/grant_coic_deschutes_county__dg_6-11-21__960.png?t=xoxe-1007837232194-2165138914839-2203710763040-85f1456b2d269fd3d1c6df553c5bed04",
+                "thumb_960_w": 678,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T021Q5QL81H-F0250NLTAPN-a68ebb7295\/grant_coic_deschutes_county__dg_6-11-21__1024.png?t=xoxe-1007837232194-2165138914839-2203710763040-85f1456b2d269fd3d1c6df553c5bed04",
+                "thumb_1024_w": 724,
+                "thumb_1024_h": 1024,
+                "original_w": 1024,
+                "original_h": 1449,
+                "thumb_tiny": "AwAwACHSJAOKNwNNb7x+lCjg0AKXUdTShgehqFx81LH1H1oAmooooAKKKKACiiigAooooAKKKKACiiigAooooA\/\/2Q==",
+                "permalink": "https:\/\/coicsmallbusi-e4z3052.slack.com\/files\/U021PV8JDEE\/F0250NLTAPN\/grant_coic_deschutes_county__dg_6-11-21_",
+                "user_team": "T021Q5QL81H",
+                "source_team": "T021Q5QL81H",
+                "is_starred": false,
+                "external_id": "1R9nczI7wmOxAaK2lppkXjmAjPNCJzGAD8ODjzGV75Jg",
+                "external_url": "https:\/\/docs.google.com\/spreadsheets\/d\/1R9nczI7wmOxAaK2lppkXjmAjPNCJzGAD8ODjzGV75Jg\/edit?usp=sharing",
+                "has_rich_preview": true
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g79K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U010L4Y9YDA"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", here is David's Working sheet. When I converted it to a google sheet rather than an excel, it broke some formulas but the list of approved businesses is there and I added a column for if we have received contracts that your team can populate. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1R9nczI7wmOxAaK2lppkXjmAjPNCJzGAD8ODjzGV75Jg\/edit?usp=sharing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021PV8JDEE",
+        "display_as_bot": false,
+        "x_files": [
+            "F0250NLTAPN"
+        ],
+        "team": "T0107QM6U5Q",
+        "ts": "1623445768.033000",
+        "client_msg_id": "40678034-13ea-4f0a-a3c5-175d02c0af02",
+        "user_team": "T021Q5QL81H",
+        "source_team": "T021Q5QL81H",
+        "user_profile": {
+            "avatar_hash": "d7420a26d043",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2081911206576_d7420a26d04337c185ff_72.png",
+            "first_name": "",
+            "real_name": "Jared Puckett",
+            "display_name": "Jared Puckett",
+            "team": "T021Q5QL81H",
+            "name": "jpuckett",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8a4dce0f-7316-41e4-8c49-ac2d0d0146f0",
+        "type": "message",
+        "text": "The First tab \"PT Counts FINAL\" is where the important info is",
+        "user": "U021PV8JDEE",
+        "ts": "1623445819.034000",
+        "team": "T0107QM6U5Q",
+        "user_team": "T021Q5QL81H",
+        "source_team": "T021Q5QL81H",
+        "user_profile": {
+            "avatar_hash": "d7420a26d043",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2081911206576_d7420a26d04337c185ff_72.png",
+            "first_name": "",
+            "real_name": "Jared Puckett",
+            "display_name": "Jared Puckett",
+            "team": "T021Q5QL81H",
+            "name": "jpuckett",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kzoh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The First tab \"PT Counts FINAL\" is where the important info is"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d9c93cbb-b2e1-4a9f-8b47-f70a06b68426",
+        "type": "message",
+        "text": "Okay.  Thanks.\n\nLet me know if there are any issues with the contracts.  I see that we've received about 35 so far.",
+        "user": "U010L4Y9YDA",
+        "ts": "1623446082.034900",
+        "team": "T0107QM6U5Q",
+        "user_team": "T0107QM6U5Q",
+        "source_team": "T0107QM6U5Q",
+        "user_profile": {
+            "avatar_hash": "de267abf708c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-25\/1027438074374_de267abf708c98aec8f7_72.jpg",
+            "first_name": "",
+            "real_name": "adam.krynicki",
+            "display_name": "",
+            "team": "T0107QM6U5Q",
+            "name": "adam.krynicki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v5yY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Okay.  Thanks.\n\nLet me know if there are any issues with the contracts.  I see that we've received about 35 so far."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ade0d9f6-9c84-40fb-b4b1-109a065ff710",
+        "type": "message",
+        "text": "I am still unable to view them. I am not sure if you gave me access (I don't know how it works, so I don't know if that is a thing) on Hellosign.",
+        "user": "U021PV8JDEE",
+        "ts": "1623446135.035700",
+        "team": "T0107QM6U5Q",
+        "user_team": "T021Q5QL81H",
+        "source_team": "T021Q5QL81H",
+        "user_profile": {
+            "avatar_hash": "d7420a26d043",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2081911206576_d7420a26d04337c185ff_72.png",
+            "first_name": "",
+            "real_name": "Jared Puckett",
+            "display_name": "Jared Puckett",
+            "team": "T021Q5QL81H",
+            "name": "jpuckett",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ijm8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am still unable to view them. I am not sure if you gave me access (I don't know how it works, so I don't know if that is a thing) on Hellosign."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ffb9b8aa-cd48-452a-b093-e4b3ebadd194",
+        "type": "message",
+        "text": "Or will I just have to wait for your team to populate the google sheets",
+        "user": "U021PV8JDEE",
+        "ts": "1623446164.036100",
+        "team": "T0107QM6U5Q",
+        "user_team": "T021Q5QL81H",
+        "source_team": "T021Q5QL81H",
+        "user_profile": {
+            "avatar_hash": "d7420a26d043",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2081911206576_d7420a26d04337c185ff_72.png",
+            "first_name": "",
+            "real_name": "Jared Puckett",
+            "display_name": "Jared Puckett",
+            "team": "T021Q5QL81H",
+            "name": "jpuckett",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mok",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Or will I just have to wait for your team to populate the google sheets"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "If you can login, and if you can access the documents section by clicking on the left hand menu, then you will have to go here:",
+        "files": [
+            {
+                "id": "F024RG6EA8M",
+                "created": 1623446318,
+                "timestamp": 1623446318,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U010L4Y9YDA",
+                "editable": false,
+                "size": 73904,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0107QM6U5Q-F024RG6EA8M\/image.png?t=xoxe-1007837232194-2165138914839-2203710763040-85f1456b2d269fd3d1c6df553c5bed04",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0107QM6U5Q-F024RG6EA8M\/download\/image.png?t=xoxe-1007837232194-2165138914839-2203710763040-85f1456b2d269fd3d1c6df553c5bed04",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0107QM6U5Q-F024RG6EA8M-f33aa6f44a\/image_64.png?t=xoxe-1007837232194-2165138914839-2203710763040-85f1456b2d269fd3d1c6df553c5bed04",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0107QM6U5Q-F024RG6EA8M-f33aa6f44a\/image_80.png?t=xoxe-1007837232194-2165138914839-2203710763040-85f1456b2d269fd3d1c6df553c5bed04",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0107QM6U5Q-F024RG6EA8M-f33aa6f44a\/image_360.png?t=xoxe-1007837232194-2165138914839-2203710763040-85f1456b2d269fd3d1c6df553c5bed04",
+                "thumb_360_w": 360,
+                "thumb_360_h": 232,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0107QM6U5Q-F024RG6EA8M-f33aa6f44a\/image_480.png?t=xoxe-1007837232194-2165138914839-2203710763040-85f1456b2d269fd3d1c6df553c5bed04",
+                "thumb_480_w": 480,
+                "thumb_480_h": 309,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0107QM6U5Q-F024RG6EA8M-f33aa6f44a\/image_160.png?t=xoxe-1007837232194-2165138914839-2203710763040-85f1456b2d269fd3d1c6df553c5bed04",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0107QM6U5Q-F024RG6EA8M-f33aa6f44a\/image_720.png?t=xoxe-1007837232194-2165138914839-2203710763040-85f1456b2d269fd3d1c6df553c5bed04",
+                "thumb_720_w": 720,
+                "thumb_720_h": 463,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0107QM6U5Q-F024RG6EA8M-f33aa6f44a\/image_800.png?t=xoxe-1007837232194-2165138914839-2203710763040-85f1456b2d269fd3d1c6df553c5bed04",
+                "thumb_800_w": 800,
+                "thumb_800_h": 515,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0107QM6U5Q-F024RG6EA8M-f33aa6f44a\/image_960.png?t=xoxe-1007837232194-2165138914839-2203710763040-85f1456b2d269fd3d1c6df553c5bed04",
+                "thumb_960_w": 960,
+                "thumb_960_h": 618,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0107QM6U5Q-F024RG6EA8M-f33aa6f44a\/image_1024.png?t=xoxe-1007837232194-2165138914839-2203710763040-85f1456b2d269fd3d1c6df553c5bed04",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 659,
+                "original_w": 1058,
+                "original_h": 681,
+                "thumb_tiny": "AwAeADC79lg\/55ij7JB\/zyWpqQZzQBF9kt\/+eS0wQW5fb5PPrtOKs0gJxQBF9kg\/55LR9kg\/55LUvNLQAUmOaWkH3jQAtNp1NHSgBRS03OMU6gD\/2Q==",
+                "permalink": "https:\/\/co-labconsultancy.slack.com\/files\/U010L4Y9YDA\/F024RG6EA8M\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T0107QM6U5Q-F024RG6EA8M-63f7ff8177",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aDqI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If you can login, and if you can access the documents section by clicking on the left hand menu, then you will have to go here:"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U010L4Y9YDA",
+        "display_as_bot": false,
+        "team": "T0107QM6U5Q",
+        "ts": "1623446325.037600",
+        "user_team": "T0107QM6U5Q",
+        "source_team": "T0107QM6U5Q",
+        "user_profile": {
+            "avatar_hash": "de267abf708c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-25\/1027438074374_de267abf708c98aec8f7_72.jpg",
+            "first_name": "",
+            "real_name": "adam.krynicki",
+            "display_name": "",
+            "team": "T0107QM6U5Q",
+            "name": "adam.krynicki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7454316f-2a39-4b5f-91f3-b72e84fa8a90",
+        "type": "message",
+        "text": "Then click preview.",
+        "user": "U010L4Y9YDA",
+        "ts": "1623446343.038000",
+        "team": "T0107QM6U5Q",
+        "user_team": "T0107QM6U5Q",
+        "source_team": "T0107QM6U5Q",
+        "user_profile": {
+            "avatar_hash": "de267abf708c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-25\/1027438074374_de267abf708c98aec8f7_72.jpg",
+            "first_name": "",
+            "real_name": "adam.krynicki",
+            "display_name": "",
+            "team": "T0107QM6U5Q",
+            "name": "adam.krynicki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x4x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Then click preview."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f72e277e-42df-44c2-aaae-794402b7598d",
+        "type": "message",
+        "text": "Hellosign is clunky, and they make you do it individually.",
+        "user": "U010L4Y9YDA",
+        "ts": "1623446365.038500",
+        "team": "T0107QM6U5Q",
+        "user_team": "T0107QM6U5Q",
+        "source_team": "T0107QM6U5Q",
+        "user_profile": {
+            "avatar_hash": "de267abf708c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-25\/1027438074374_de267abf708c98aec8f7_72.jpg",
+            "first_name": "",
+            "real_name": "adam.krynicki",
+            "display_name": "",
+            "team": "T0107QM6U5Q",
+            "name": "adam.krynicki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6RUQf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hellosign is clunky, and they make you do it individually."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "I can only see the ones that I submitted when I was testing",
+        "files": [
+            {
+                "id": "F024MR2L13Q",
+                "created": 1623446420,
+                "timestamp": 1623446420,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U021PV8JDEE",
+                "editable": false,
+                "size": 26534,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T021Q5QL81H-F024MR2L13Q\/image.png?t=xoxe-1007837232194-2165138914839-2203710763040-85f1456b2d269fd3d1c6df553c5bed04",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T021Q5QL81H-F024MR2L13Q\/download\/image.png?t=xoxe-1007837232194-2165138914839-2203710763040-85f1456b2d269fd3d1c6df553c5bed04",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T021Q5QL81H-F024MR2L13Q-77ed19561f\/image_64.png?t=xoxe-1007837232194-2165138914839-2203710763040-85f1456b2d269fd3d1c6df553c5bed04",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T021Q5QL81H-F024MR2L13Q-77ed19561f\/image_80.png?t=xoxe-1007837232194-2165138914839-2203710763040-85f1456b2d269fd3d1c6df553c5bed04",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T021Q5QL81H-F024MR2L13Q-77ed19561f\/image_360.png?t=xoxe-1007837232194-2165138914839-2203710763040-85f1456b2d269fd3d1c6df553c5bed04",
+                "thumb_360_w": 360,
+                "thumb_360_h": 199,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T021Q5QL81H-F024MR2L13Q-77ed19561f\/image_480.png?t=xoxe-1007837232194-2165138914839-2203710763040-85f1456b2d269fd3d1c6df553c5bed04",
+                "thumb_480_w": 480,
+                "thumb_480_h": 265,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T021Q5QL81H-F024MR2L13Q-77ed19561f\/image_160.png?t=xoxe-1007837232194-2165138914839-2203710763040-85f1456b2d269fd3d1c6df553c5bed04",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T021Q5QL81H-F024MR2L13Q-77ed19561f\/image_720.png?t=xoxe-1007837232194-2165138914839-2203710763040-85f1456b2d269fd3d1c6df553c5bed04",
+                "thumb_720_w": 720,
+                "thumb_720_h": 397,
+                "original_w": 723,
+                "original_h": 399,
+                "thumb_tiny": "AwAaADDTopO\/\/wBajn1oAD0ODj3piJIrZeXcMdNuKkPSkyf8igBaKTt\/9aloATv\/APXpaKKAEPSjHt+tLRQAnaloooA\/\/9k=",
+                "permalink": "https:\/\/coicsmallbusi-e4z3052.slack.com\/files\/U021PV8JDEE\/F024MR2L13Q\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T021Q5QL81H-F024MR2L13Q-5307e809d0",
+                "user_team": "T021Q5QL81H",
+                "source_team": "T021Q5QL81H",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LUMJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I can only see the ones that I submitted when I was testing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U021PV8JDEE",
+        "display_as_bot": false,
+        "team": "T0107QM6U5Q",
+        "ts": "1623446422.039500",
+        "user_team": "T021Q5QL81H",
+        "source_team": "T021Q5QL81H",
+        "user_profile": {
+            "avatar_hash": "d7420a26d043",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2081911206576_d7420a26d04337c185ff_72.png",
+            "first_name": "",
+            "real_name": "Jared Puckett",
+            "display_name": "Jared Puckett",
+            "team": "T021Q5QL81H",
+            "name": "jpuckett",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2c35d695-dbf6-4d38-86cc-15e25930571b",
+        "type": "message",
+        "text": "Which email address are you logged in with?  the COIC one?",
+        "user": "U010L4Y9YDA",
+        "ts": "1623446552.040000",
+        "team": "T0107QM6U5Q",
+        "user_team": "T0107QM6U5Q",
+        "source_team": "T0107QM6U5Q",
+        "user_profile": {
+            "avatar_hash": "de267abf708c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-25\/1027438074374_de267abf708c98aec8f7_72.jpg",
+            "first_name": "",
+            "real_name": "adam.krynicki",
+            "display_name": "",
+            "team": "T0107QM6U5Q",
+            "name": "adam.krynicki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E4lw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Which email address are you logged in with?  the COIC one?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "925cda79-782a-4289-a4b0-5414a9bdef34",
+        "type": "message",
+        "text": "I've been using my jpuckett@coic I havent even tried the Grants@coic",
+        "user": "U021PV8JDEE",
+        "ts": "1623446583.040700",
+        "team": "T0107QM6U5Q",
+        "user_team": "T021Q5QL81H",
+        "source_team": "T021Q5QL81H",
+        "user_profile": {
+            "avatar_hash": "d7420a26d043",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2081911206576_d7420a26d04337c185ff_72.png",
+            "first_name": "",
+            "real_name": "Jared Puckett",
+            "display_name": "Jared Puckett",
+            "team": "T021Q5QL81H",
+            "name": "jpuckett",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zhu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I've been using my jpuckett@coic I havent even tried the Grants@coic"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "76c5cb5d-6162-4f24-8cd4-1d10b5a869f9",
+        "type": "message",
+        "text": "one sec",
+        "user": "U021PV8JDEE",
+        "ts": "1623446585.040900",
+        "team": "T0107QM6U5Q",
+        "user_team": "T021Q5QL81H",
+        "source_team": "T021Q5QL81H",
+        "user_profile": {
+            "avatar_hash": "d7420a26d043",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2081911206576_d7420a26d04337c185ff_72.png",
+            "first_name": "",
+            "real_name": "Jared Puckett",
+            "display_name": "Jared Puckett",
+            "team": "T021Q5QL81H",
+            "name": "jpuckett",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rtsf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "one sec"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "13ba0521-4bce-4d3a-b230-3a3f605da8cf",
+        "type": "message",
+        "text": "Jpuckett is correct.  Try again with that address",
+        "user": "U010L4Y9YDA",
+        "ts": "1623446615.041500",
+        "team": "T0107QM6U5Q",
+        "user_team": "T0107QM6U5Q",
+        "source_team": "T0107QM6U5Q",
+        "user_profile": {
+            "avatar_hash": "de267abf708c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-25\/1027438074374_de267abf708c98aec8f7_72.jpg",
+            "first_name": "",
+            "real_name": "adam.krynicki",
+            "display_name": "",
+            "team": "T0107QM6U5Q",
+            "name": "adam.krynicki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=dQI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Jpuckett is correct.  Try again with that address"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3315c0a1-bf08-448e-a2f8-aa85662e07cc",
+        "type": "message",
+        "text": "I changed your permissions.  Hellosign doesn't allow me to add you as an admin until after you log in.",
+        "user": "U010L4Y9YDA",
+        "ts": "1623446643.042100",
+        "team": "T0107QM6U5Q",
+        "user_team": "T0107QM6U5Q",
+        "source_team": "T0107QM6U5Q",
+        "user_profile": {
+            "avatar_hash": "de267abf708c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-25\/1027438074374_de267abf708c98aec8f7_72.jpg",
+            "first_name": "",
+            "real_name": "adam.krynicki",
+            "display_name": "",
+            "team": "T0107QM6U5Q",
+            "name": "adam.krynicki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y1v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I changed your permissions.  Hellosign doesn't allow me to add you as an admin until after you log in."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9b940d60-4ff7-4fc7-90e1-414057dffdc3",
+        "type": "message",
+        "text": "It should work now.",
+        "user": "U010L4Y9YDA",
+        "ts": "1623446649.042300",
+        "team": "T0107QM6U5Q",
+        "user_team": "T0107QM6U5Q",
+        "source_team": "T0107QM6U5Q",
+        "user_profile": {
+            "avatar_hash": "de267abf708c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-25\/1027438074374_de267abf708c98aec8f7_72.jpg",
+            "first_name": "",
+            "real_name": "adam.krynicki",
+            "display_name": "",
+            "team": "T0107QM6U5Q",
+            "name": "adam.krynicki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "89F+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It should work now."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f71982e2-3804-40cf-bc8d-c1ec42f37769",
+        "type": "message",
+        "text": "Whatever you did worked, I can see them now. Thanks!",
+        "user": "U021PV8JDEE",
+        "ts": "1623446727.042700",
+        "team": "T0107QM6U5Q",
+        "user_team": "T021Q5QL81H",
+        "source_team": "T021Q5QL81H",
+        "user_profile": {
+            "avatar_hash": "d7420a26d043",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2081911206576_d7420a26d04337c185ff_72.png",
+            "first_name": "",
+            "real_name": "Jared Puckett",
+            "display_name": "Jared Puckett",
+            "team": "T021Q5QL81H",
+            "name": "jpuckett",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "efP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Whatever you did worked, I can see them now. Thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c22ec55f-8a99-407d-9d71-7846710c40d9",
+        "type": "message",
+        "text": "Thanks for letting me know.  I am stepping away because I'm supposed to be taking leave.  I'm not good at that, though, and therefore I'm on slack.\n\nIf you need me, text <tel:9079785606|907-978-5606>.",
+        "user": "U010L4Y9YDA",
+        "ts": "1623446863.044700",
+        "team": "T0107QM6U5Q",
+        "user_team": "T0107QM6U5Q",
+        "source_team": "T0107QM6U5Q",
+        "user_profile": {
+            "avatar_hash": "de267abf708c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-25\/1027438074374_de267abf708c98aec8f7_72.jpg",
+            "first_name": "",
+            "real_name": "adam.krynicki",
+            "display_name": "",
+            "team": "T0107QM6U5Q",
+            "name": "adam.krynicki",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tx5LF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for letting me know.  I am stepping away because I'm supposed to be taking leave.  I'm not good at that, though, and therefore I'm on slack.\n\nIf you need me, text "
+                            },
+                            {
+                                "type": "link",
+                                "url": "tel:9079785606",
+                                "text": "907-978-5606"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0df67fe9-7d8b-49dc-966d-807adde91571",
+        "type": "message",
+        "text": "Haha I'm good now. Stop working",
+        "user": "U021PV8JDEE",
+        "ts": "1623446887.045100",
+        "team": "T0107QM6U5Q",
+        "user_team": "T021Q5QL81H",
+        "source_team": "T021Q5QL81H",
+        "user_profile": {
+            "avatar_hash": "d7420a26d043",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-05-12\/2081911206576_d7420a26d04337c185ff_72.png",
+            "first_name": "",
+            "real_name": "Jared Puckett",
+            "display_name": "Jared Puckett",
+            "team": "T021Q5QL81H",
+            "name": "jpuckett",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uk7o8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Haha I'm good now. Stop working"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

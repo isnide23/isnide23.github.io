@@ -1,0 +1,199 @@
+[
+{
+    "id": "C016G8JHM8T",
+    "name": "omep",
+    "created": 1593715097,
+    "creator": "U010NBQB6NT",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U010L4Y9YDA",
+        "U010LJKLQNL",
+        "U010LJKNWU8",
+        "U010NBQB6NT",
+        "U01123MFUDB",
+        "U014PRGBQAY",
+        "U01B6G2R80H",
+        "U01BC3YUASF",
+        "U01S45KCPPZ",
+        "U022ZAYNWFK"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+},
+{
+    "id": "C01CME7JS1Y",
+    "name": "resources",
+    "created": 1602720962,
+    "creator": "U010L4Y9YDA",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U010AGX1PCH",
+        "U010L4Y9YDA",
+        "U010LJKLQNL",
+        "U010LJKNWU8",
+        "U010NBQ6RT9",
+        "U010NBQB6NT",
+        "U01123MFUDB",
+        "U014PRGBQAY",
+        "U01B37LLTGW",
+        "U01B6G2R80H",
+        "U01BC3YUASF",
+        "U01S45KCPPZ",
+        "U022ZAYNWFK",
+        "U023AGE8YJU"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+},
+{
+    "id": "C01GQ9RCVU7",
+    "name": "coic-contracts",
+    "created": 1608216093,
+    "creator": "U010L4Y9YDA",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U010AGX1PCH",
+        "U010L4Y9YDA",
+        "U014PRGBQAY",
+        "U01B37LLTGW",
+        "U021PV8JDEE",
+        "U022ZAYNWFK"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+},
+{
+    "id": "C01V0J7J4L8",
+    "name": "upskillor",
+    "created": 1618417236,
+    "creator": "U010L4Y9YDA",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U010AGX1PCH",
+        "U010L4Y9YDA",
+        "U010LJKLQNL",
+        "U014PRGBQAY",
+        "U022ZAYNWFK",
+        "U023AGE8YJU"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+},
+{
+    "id": "C01JA1QASH3",
+    "name": "osu_colabstudios_management",
+    "created": 1610323010,
+    "creator": "U01HSDR8PQW",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U010L4Y9YDA",
+        "U01123MFUDB",
+        "U01HSDR8PQW",
+        "U01J5CAGTEY",
+        "U01JBS0S6HF",
+        "U01JP2UBNJU",
+        "U01SPL3GJG1"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+},
+{
+    "id": "C01K3FPFZQW",
+    "name": "connectco_the-bulletin_co-lab-studios",
+    "created": 1611159661,
+    "creator": "U01HSDR8PQW",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U010AGX1PCH",
+        "U010L4Y9YDA",
+        "U010LJKLQNL",
+        "U01HSDR8PQW",
+        "U01HZDJ6PUK",
+        "U01KLDKAK9T",
+        "U01QT1X5JCR"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+},
+{
+    "id": "C021K0M04UE",
+    "name": "coic-osu-grants-shared",
+    "created": 1620856664,
+    "creator": "U021PV8JDEE",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U010AGX1PCH",
+        "U010L4Y9YDA",
+        "U014PRGBQAY",
+        "U02196JDX5M",
+        "U021PV8JDEE",
+        "U0222HXM9NV",
+        "U0222J0QWCR"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+}
+]

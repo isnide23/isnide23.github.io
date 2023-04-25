@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<title>CoLab Slack Channel Data</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://www.w3schools.com/lib/w3-theme-black.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif;}
+.w3-sidebar {
+  z-index: 3;
+  width: 250px;
+  top: 43px;
+  bottom: 0;
+  height: inherit;
+}
+
+body {
+  background-color: #c0c0c0;
+}
+
+.heading {
+  font-weight: 900;
+  font-size: large;
+  text-decoration: underline;
+}
+
+#jsonData {
+  text-align: left;
+  width: 90%;
+  padding-left: 4%;
+}
+
+.bodyText {
+  background: lightgray;
+  color: black;
+  padding: 15px;
+  width: 50%;
+  height: 100px;
+  overflow: scroll;
+  border: 1px solid #ccc;
+  margin-bottom: 5%;
+}
+
+h1 {
+  padding-left: 4%;
+}
+
+
+</style>
+<body>
+<h1>Messages From: 2021-09-01</h1>
+<div id="jsonData">
+  
+
+</div>
+<script>
+    fetch('Co_Lab_Slack_export_Jun_9_2021_Jun_15_2021/upskillor/2021-09-01.json')
+        .then(function (response) {
+            return response.json();
+        })
+        .then(function (data) {
+            appendData(data);
+        })
+        .catch(function (err) {
+            console.log('error: ' + err);
+        });
+    function appendData(data) {
+        var mainContainer = document.getElementById("jsonData");
+        for (var i = 0; i < data.length; i++) {
+          
+          if (data[i].text == "") {
+            var messageTypeDiv = document.createElement("div");
+            var senderDiv = document.createElement("div");
+            var subjectDiv = document.createElement("div");
+            var plainTextDiv = document.createElement("div");
+            messageTypeDiv.classList.add('messageType');
+            messageTypeDiv.innerHTML = "MESSAGE-TYPE: EMAIL";
+            senderDiv.innerHTML = "SENDER: " + data[i].files[0].from[0].original;
+            subjectDiv.innerHTML = "SUBJECT: " + data[i].files[0].name;
+            plainTextDiv.innerHTML = "BODY: " + data[i].files[0].plain_text;
+            plainTextDiv.className = "bodyText"
+            mainContainer.appendChild(messageTypeDiv);
+            mainContainer.appendChild(senderDiv);
+            mainContainer.appendChild(subjectDiv);
+            mainContainer.appendChild(plainTextDiv);
+          } else {
+            var messageTypeDiv = document.createElement("div");
+            var senderDiv = document.createElement("div");
+
+            messageTypeDiv.innerHTML = "MESSAGE-TYPE: SLACK MESSAGE";
+            senderDiv.innerHTML = "SENDER: " + data[i].user_profile.name;          
+            mainContainer.appendChild(messageTypeDiv);
+            mainContainer.appendChild(senderDiv);
+            var text = data[i].text;
+            var textBegin = text.substring(0, 2); 
+            if (textBegin == "\n<") {
+              text = text.slice(2, text.length)
+            }
+            var textLastChar = text.substring(text.length - 1, text.length);
+            if (textLastChar == ">") {
+              text = text.slice(0, -1);
+            }
+            textBegin = text.substring(0,4);
+           
+            if (textBegin == "http") {
+              var textA = document.createElement("a");
+              textA.href = text;
+              if (data[i].attachments.length > 0) {
+                textA.innerHTML = data[i].attachments[0].title;
+              } else {
+                textA.innerHTML = text;
+              }
+              mainContainer.appendChild(textA);
+            }
+            var textDiv = document.createElement("div");
+            textDiv.innerHTML = "TEXT: " + text;
+            mainContainer.appendChild(textDiv);
+
+          }   
+          
+        }
+    }
+</script>
+
+</body>
+</html>
